@@ -1,0 +1,14 @@
+{% extends "base.html" %}       <!--base.html의 형식을 상속받음__공통의 레이아웃을 가져가고싶을때-->
+
+{% block title %}필터{% endblock %}
+
+{% block content %}
+
+
+<h2>필터 옵션 사용</h2>
+원본 메세지 : {{message}}<br>
+대문자로 : {{message | upper}}<br>
+첫글자 대문자로 : {{message | capitalize}}<br>
+단어별 첫글자 대문자로 : {{message | title}}<br>
+가격은 {{price}}
+{% endblock %}

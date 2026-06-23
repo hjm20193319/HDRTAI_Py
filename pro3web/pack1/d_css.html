@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS 연습</title>
+    <! -- 인터널 방식 스타일 지정 선언 -- >   <! 복수 지정도 가능 >
+    <style type="text/css">             
+        h1{font-size: 20px;font-family: 궁서;color: royalblue;}
+        h2, strong{
+            font-size: 40px;
+            color: chocolate;}
+            
+        .c1 {
+            color: goldenrod;
+            font-family: 돋움, 궁서, serif, "Times New Roman";}              
+
+        #myid1{
+            color: lawngreen;
+            font-style: italic;
+        }
+    </style>
+
+    <! ---External 방식 style (외부에서 저장한 css 파일 불러오기)--->
+    <link rel="stylesheet" type="text/css" href="css/ex.css" />
+
+</head>
+<body>
+<pre>
+<h2>
+** 스타일 시트 **                                                       <! W3School 에서 학습 가능 >
+</h2><h4>
+HTML 문서에 다양한 레이아웃과 꾸미기를 위한 표현적인 언어 CSS 사용
+서식 : 선택자{속성:값; ...}
+선택자 종류는
+    1) 요소명 : body tag 내의 특정 tag를 직접 지정해서 선택
+    2) . : class 선택자 - 클래스 속성값으로 보유하고 있는 요소를 선택
+    3) # : id 선택자로, 복수 선택 가능
+
+스타일은 하위 요소에 상속된다.
+
+* CSS 적용 방법 : inline, internal, external
+</h4>
+</pre>
+*************************************************
+<hr>
+*** <b>css</b> 적용<strong>하기</strong> ***        <! 굵게 하는 tag --- css 아님 >
+<br>
+<span style="font-size: 30px;color: aquamarine;">* 인라인 방식</span>(해당 요소 직접 스타일 지정)          <! span : 범위 지정만 한 상태 >
+<h1>인터널 방식(내부 스타일 지정)</h1>
+<h2 style="color: darkslateblue;">안녕하세요</h2>                   <! 우선순위 : inline - internal - external >
+<h1>반가워요</h1>           <! 위에서 선언한 h1 지정 형식 때문에 다 바뀜>
+
+<p class="c1">클래스 사용 1 - class명 중복 가능</p>             <! class는 . 으로 받는다(위에서) 중복이 가능>
+<h2 class="c1">안녕하세요 2 - 클래스 사용 2</h2>        <! 같은 우선순위에서는 가장 나중에 적어준 것이 적용 된다>
+<p id="myid1">아이디 사용 - id명 중복 불가</p>
+<div id="myid2">아이디 사용 : div에 적용함</div>        <! error는 안나지만 id명 중복 사용 안됨 >
+
+<p>* 입력 양식 작성 *</p>
+<form>
+    <table>
+        <tr>
+            <td>아이디 : </td>
+            <td><input type="text" name="id"></td>
+        </tr>
+        <tr>
+            <td>비밀번호 : </td>
+            <td><input type="password" name="pwd"></td>
+        </tr>
+    </table>
+</form>
+<br>
+<a href="https://m.naver.com">네이버</a><br>
+<a href="https://kbs.co.kr">kbs</a> 공영방송<br>
+<hr>
+<b>b tag 난 div가 없어</b>
+<div><b>div-b tag 난 자식</b></div>
+<div><span><b>div-span tag 난 자손</b></span></div>
+<div><b id="hi">div-b tag : id-hi 나도 자식</b></div>
+<div><b class="hello">div-b tag : class-hello 나도 자식</b></div>
+
+
+</body>
+</html>

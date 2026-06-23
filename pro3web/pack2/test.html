@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+    <script>
+        window.onload = () => {
+            document.querySelector('#btnSend').onclick = formCheck;
+        }
+         // 오류 검사 함수
+        function formCheck(event){
+            // alert('a');
+            event.preventDefault();     // submit 기능 해제
+            // 아래 오류 검사 후 이상 없으면 서버로 자료 전송
+            if(frm.id.value !== 'tom'){
+                alert('실패');         
+                return;
+            }
+
+            if(frm.password.value !== '111'){
+                alert('실패');
+                return;
+            }
+
+            if(frm.id.value === 'tom' && frm.password.value === '111'){
+                alert('성공');
+                return;
+            }
+        }
+    </script>
+</head>
+<body>
+<h2>직원 로그인</h2>
+
+<form action="{{url_for('aa.html')}}" name="frm" method="get" onsubmit="formCheck()">
+    <p>이름 : <input name="id"></p>
+    <p>비밀번호 : <input name="password"></p>
+    <button type="submit" id="btnSend">로그인</button>
+</form>
+
+</body>
+</html>

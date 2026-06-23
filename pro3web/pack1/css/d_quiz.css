@@ -1,0 +1,12 @@
+a:link{ text-decoration: none;}         /*밑줄 없애기*/
+a:hover{ color: coral; font-size: 30px;}        /*마우스를 올리면 기능이 됨 떼면 해제*/
+
+table{float: left; width: 100px;}
+iframe{margin-left: 1px;}
+td{text-align: center;}
+footer {
+    float:left;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+}

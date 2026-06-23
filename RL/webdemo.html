@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>K2 전차 작전 지휘 시스템</title>
+  <style>
+    :root {
+      --bg: #0b1117;
+      --panel: #111b24;
+      --panel-2: #162331;
+      --line: #284054;
+      --green: #44ff99;
+      --yellow: #ffd166;
+      --red: #ff5c5c;
+      --blue: #4dabf7;
+      --text: #d8f3dc;
+      --muted: #8aa0aa;
+    }
+
+    * {
+      box-sizing: border-box;
+      font-family: "Segoe UI", "Noto Sans KR", sans-serif;
+    }
+
+    body {
+      margin: 0;
+      background: radial-gradient(circle at top, #172532, var(--bg));
+      color: var(--text);
+    }
+
+    header {
+      height: 64px;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #071017;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--green);
+      letter-spacing: 1px;
+    }
+
+    .status {
+      display: flex;
+      gap: 16px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .status strong {
+      color: var(--green);
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: 280px 1fr 360px;
+      gap: 16px;
+      padding: 16px;
+      height: calc(100vh - 64px);
+    }
+
+    .panel {
+      background: rgba(17, 27, 36, 0.94);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      font-size: 15px;
+      color: var(--green);
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 10px;
+    }
+
+    .tank-card {
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      margin-bottom: 12px;
+      background: var(--panel-2);
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .tank-card:hover,
+    .tank-card.active {
+      border-color: var(--green);
+      box-shadow: 0 0 12px rgba(68, 255, 153, 0.22);
+    }
+
+    .tank-name {
+      display: flex;
+      justify-content: space-between;
+      font-weight: 700;
+    }
+
+    .badge {
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 11px;
+      color: #06100a;
+      background: var(--green);
+    }
+
+    .badge.warn {
+      background: var(--yellow);
+    }
+
+    .badge.danger {
+      background: var(--red);
+      color: #fff;
+    }
+
+    .metric {
+      margin-top: 8px;
+      font-size: 12px;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .map {
+      position: relative;
+      height: 100%;
+      overflow: hidden;
+      background:
+        linear-gradient(rgba(68,255,153,.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(68,255,153,.05) 1px, transparent 1px),
+        #0c171f;
+      background-size: 40px 40px;
+    }
+
+    .map::before {
+      content: "전술 상황도 / SIMULATION";
+      position: absolute;
+      top: 16px;
+      left: 18px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .unit {
+      position: absolute;
+      width: 88px;
+      padding: 8px;
+      border: 1px solid var(--green);
+      border-radius: 8px;
+      text-align: center;
+      background: rgba(11, 17, 23, 0.9);
+      color: var(--green);
+      font-size: 12px;
+      transform: translate(-50%, -50%);
+    }
+
+    .unit.enemy {
+      border-color: var(--red);
+      color: var(--red);
+    }
+
+    .unit.objective {
+      border-color: var(--yellow);
+      color: var(--yellow);
+    }
+
+    .route {
+      position: absolute;
+      border-top: 2px dashed var(--blue);
+      transform-origin: left center;
+      opacity: 0.8;
+    }
+
+    label {
+      display: block;
+      margin-top: 12px;
+      margin-bottom: 6px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    input,
+    select,
+    textarea,
+    button {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+      background: #0b141c;
+      color: var(--text);
+      outline: none;
+    }
+
+    textarea {
+      height: 92px;
+      resize: none;
+    }
+
+    button {
+      margin-top: 14px;
+      cursor: pointer;
+      font-weight: 800;
+      background: linear-gradient(135deg, #1f8f5f, #44ff99);
+      color: #04110a;
+      border: none;
+    }
+
+    button.secondary {
+      background: #172532;
+      color: var(--text);
+      border: 1px solid var(--line);
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .summary div {
+      background: var(--panel-2);
+      padding: 12px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+    }
+
+    .summary span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .summary strong {
+      font-size: 18px;
+      color: var(--green);
+    }
+
+    .log {
+      height: 180px;
+      overflow-y: auto;
+      margin-top: 14px;
+      background: #081018;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .log p {
+      margin: 0 0 8px;
+    }
+
+    .danger-text {
+      color: var(--red);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">K2 C2 COMMAND SYSTEM</div>
+    <div class="status">
+      <span>보안등급 <strong>훈련용</strong></span>
+      <span>네트워크 <strong>SIM-LINK 정상</strong></span>
+      <span id="clock"></span>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h2>전차 편성</h2>
+
+      <div class="tank-card active" data-tank="K2-01">
+        <div class="tank-name">K2-01 <span class="badge">정상</span></div>
+        <div class="metric"><span>연료</span><strong>82%</strong></div>
+        <div class="metric"><span>탄약</span><strong>64%</strong></div>
+        <div class="metric"><span>좌표</span><strong>A3-17</strong></div>
+      </div>
+
+      <div class="tank-card" data-tank="K2-02">
+        <div class="tank-name">K2-02 <span class="badge warn">주의</span></div>
+        <div class="metric"><span>연료</span><strong>58%</strong></div>
+        <div class="metric"><span>탄약</span><strong>71%</strong></div>
+        <div class="metric"><span>좌표</span><strong>B1-08</strong></div>
+      </div>
+
+      <div class="tank-card" data-tank="K2-03">
+        <div class="tank-name">K2-03 <span class="badge">정상</span></div>
+        <div class="metric"><span>연료</span><strong>91%</strong></div>
+        <div class="metric"><span>탄약</span><strong>77%</strong></div>
+        <div class="metric"><span>좌표</span><strong>C4-22</strong></div>
+      </div>
+
+      <div class="tank-card" data-tank="K2-04">
+        <div class="tank-name">K2-04 <span class="badge danger">점검</span></div>
+        <div class="metric"><span>연료</span><strong>43%</strong></div>
+        <div class="metric"><span>탄약</span><strong>39%</strong></div>
+        <div class="metric"><span>좌표</span><strong>A5-03</strong></div>
+      </div>
+    </section>
+
+    <section class="panel map">
+      <div class="unit" style="left: 28%; top: 42%;">K2-01</div>
+      <div class="unit" style="left: 42%; top: 58%;">K2-02</div>
+      <div class="unit" style="left: 34%; top: 70%;">K2-03</div>
+      <div class="unit enemy" style="left: 72%; top: 36%;">가상 위협</div>
+      <div class="unit objective" style="left: 76%; top: 68%;">목표 지점</div>
+      <div class="route" style="left: 35%; top: 45%; width: 340px; transform: rotate(20deg);"></div>
+      <div class="route" style="left: 43%; top: 61%; width: 300px; transform: rotate(5deg);"></div>
+    </section>
+
+    <section class="panel">
+      <h2>상황 명령 전송</h2>
+
+      <div class="summary">
+        <div>
+          <span>선택 전차</span>
+          <strong id="selectedTank">K2-01</strong>
+        </div>
+        <div>
+          <span>명령 상태</span>
+          <strong id="commandState">대기</strong>
+        </div>
+      </div>
+
+      <label>명령 유형</label>
+      <select id="commandType">
+        <option>정찰 이동</option>
+        <option>방어 위치 점유</option>
+        <option>대형 변경</option>
+        <option>후퇴 및 재집결</option>
+        <option>통신 점검</option>
+      </select>
+
+      <label>우선순위</label>
+      <select id="priority">
+        <option>일반</option>
+        <option>긴급</option>
+        <option>최우선</option>
+      </select>
+
+      <label>목표 좌표</label>
+      <input id="coord" placeholder="예: B4-19" value="B4-19" />
+
+      <label>상황 명령 내용</label>
+      <textarea id="message">지정 좌표로 이동 후 주변 상황을 보고하라. 교전 판단은 상급 지휘 승인 후 수행.</textarea>
+
+      <button onclick="sendCommand()">명령 전송</button>
+      <button class="secondary" onclick="resetCommand()">초기화</button>
+
+      <h2 style="margin-top:18px;">전송 로그</h2>
+      <div class="log" id="log">
+        <p>[SYSTEM] 작전 지휘 화면 초기화 완료</p>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const cards = document.querySelectorAll(".tank-card");
+    const selectedTank = document.getElementById("selectedTank");
+    const commandState = document.getElementById("commandState");
+    const log = document.getElementById("log");
+
+    cards.forEach(card => {
+      card.addEventListener("click", () => {
+        cards.forEach(c => c.classList.remove("active"));
+        card.classList.add("active");
+        selectedTank.textContent = card.dataset.tank;
+        commandState.textContent = "대기";
+        addLog(`[선택] ${card.dataset.tank} 전차 선택`);
+      });
+    });
+
+    function sendCommand() {
+      const tank = selectedTank.textContent;
+      const type = document.getElementById("commandType").value;
+      const priority = document.getElementById("priority").value;
+      const coord = document.getElementById("coord").value.trim();
+      const message = document.getElementById("message").value.trim();
+
+      if (!coord || !message) {
+        addLog(`<span class="danger-text">[오류] 좌표와 명령 내용을 입력하세요.</span>`);
+        return;
+      }
+
+      commandState.textContent = "전송 중";
+      addLog(`[전송] ${tank} / ${type} / ${priority} / ${coord}`);
+
+      setTimeout(() => {
+        commandState.textContent = "수신 확인";
+        addLog(`[확인] ${tank} 명령 수신 확인`);
+        addLog(`[내용] ${message}`);
+      }, 800);
+    }
+
+    function resetCommand() {
+      document.getElementById("commandType").value = "정찰 이동";
+      document.getElementById("priority").value = "일반";
+      document.getElementById("coord").value = "";
+      document.getElementById("message").value = "";
+      commandState.textContent = "대기";
+      addLog("[SYSTEM] 입력값 초기화");
+    }
+
+    function addLog(text) {
+      const now = new Date().toLocaleTimeString("ko-KR");
+      log.innerHTML = `<p>${now} ${text}</p>` + log.innerHTML;
+    }
+
+    function updateClock() {
+      document.getElementById("clock").textContent =
+        new Date().toLocaleString("ko-KR");
+    }
+
+    setInterval(updateClock, 1000);
+    updateClock();
+  </script>
+</body>
+</html>

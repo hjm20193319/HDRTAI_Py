@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!--axios 를 위한 cdn-->
+</head>
+<body>
+<h2>AXIOS</h2>
+<button id="loadBtn">상품 자료 읽기(axios)</button>
+<table id="resultTable"></table>
+
+<script>
+    // 버튼 클릭 시 loadData 함수를 실행하도록 이벤트 리스너 등록
+    document.getElementById('loadBtn').addEventListener('click', loadData);
+
+    // async/await를 사용하여 비동기 방식으로 데이터 요청
+    async function loadData() {
+        try{
+            // axios를 이용해 서버의 '/api/sangdata' 경로로 GET 요청 전송
+            const response = await axios.get('/api/sangdata');
+            // axios는 응답 데이터를 자동으로 JSON으로 파싱하여 .data 속성에 담아줌
+            const data = response.data;
+
+            const table = document.getElementById('resultTable');
+            table.innerHTML = ''; // 기존 테이블 내용 초기화
+
+            // 서버에서 넘어온 데이터가 없을 경우 처리
+            if(data.length === 0) {
+                table.innerHTML = '<tr><td>자료 없음</td></tr>';
+                return;
+            }
+
+            // 테이블 헤더(th) 생성
+            let headerRow = '<tr>';
+                // 데이터의 첫 번째 객체에서 키(Key)값들을 추출하여 제목 행 구성
+                Object.keys(data[0]).forEach(key => {
+                    headerRow += `<th>${key}</th>`;
+                });
+            headerRow += '</tr>';
+            table.innerHTML += headerRow;
+            
+            // 데이터 행(td) 생성 및 추가
+            data.forEach(row => {
+                let lowHtml = '<tr>';
+                // 각 객체의 값(Value)들을 순회하며 셀 생성
+                Object.values(row).forEach(value => {
+                    lowHtml += `<td>${value}</td>`;
+                });
+                lowHtml += '</tr>';
+                table.innerHTML += lowHtml;
+            })
+        // 네트워크 오류나 요청 실패 시 에러 처리
+        }catch(error){
+            alert('에러 : ' + error)
+        };
+    };
+
+</script>
+
+
+</body>
+</html>

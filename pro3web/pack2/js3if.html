@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h3>** 조건 판단문 : if **</h3>
+<script>
+/*
+let ave = prompt('평균 점수 입력 : ', '80');        // 키보드로 값 받을 때 py의 input같은,,
+document.write('ave : ', ave);
+*/
+let ave = 80;
+if(ave >= 90) 
+    document.write('점수 : ' + ave + "이므로 <b style='color:blue;'>우수</b>");
+else if(ave >= 70) {
+    // 수행할 명령문이 복수일 경우 { } 안에 적음
+    document.write('점수 : ' + ave + "이므로 <b style='color:green;'>보통</b>");
+    document.write('&nbsp;&nbsp;&nbsp;와우');
+}
+else 
+    document.write('점수 : ' + ave + "이므로 <b style='color:red;'>저조</b>");
+</script>
+
+<hr>
+<h3>** 조건 판단문 : switch **</h3>
+<script>
+let result = 'A'        // 학점 기억 변수
+switch(result) {
+    case 'A' : {                        // 수행 영역을 들여쓰기가 아니라 중괄호로 결정함
+        document.write('매우 우수');
+        document.write('&nbsp;Good');
+        break;
+    }
+    case 'B' : document.write('우수'); break;
+    case 'C' : document.write('보통'); break;
+    // case 'D' : document.write('저조'); break;
+    case 'D' : 
+    case 'F' : document.write('불량'); break;
+    default : document.write('기타'); break;
+}
+</script>
+</body>
+</html>

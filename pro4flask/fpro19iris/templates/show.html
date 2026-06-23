@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>show</title>
+</head>
+<body>
+    <h2>붓꽃 정보</h2>
+    <div>
+        {# Jinja2 변수 출력: table 변수의 내용을 렌더링함 #}
+        {# | safe 필터: HTML 태그가 포함된 문자열을 이스케이프 처리하지 않고 그대로 브라우저에 전달하여 표(table)가 정상적으로 출력되게 함 #}
+        {{table | safe}} 
+    </div>
+    <h3>종별 건수 파이 차트</h3>
+    {# url_for('static', ...): Flask의 정적 파일 경로 생성 함수. static 폴더 내의 자원 경로를 반환함 #}
+    {# filename=img_path: 파이썬 코드에서 넘겨받은 이미지 파일명 변수를 매핑함 #}
+    <img src="{{url_for('static', filename=img_path)}}" alt="iris pie chart" style="width:50%"> 
+</body>
+</html>
+{# Jinja2 주석은 {# ... #} 형태를 사용하며, 최종 HTML 소스 코드에는 나타나지 않음 #}

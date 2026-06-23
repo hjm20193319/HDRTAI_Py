@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h3>* 커페 브랜드 선호 조사 결과 *</h3>
+{% if crossTab %}
+    {{crossTab | safe}}
+{% endif %}
+<br>
+<img src="/static/img/vbar.png" width="500">
+<br>
+{% if results %}
+    {{results | safe}}
+{% endif %}
+<br>
+<a href="/coffee/survey">다시 설문조사</a>
+<br>
+<a href="/">메인 페이지</a>
+<hr>
+{% if df %}
+    {{df | safe}}
+{% endif %}
+</body>
+</html>

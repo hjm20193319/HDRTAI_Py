@@ -1,0 +1,14 @@
+{% extends "base.html" %}       <!--base.html의 형식을 상속받음__공통의 레이아웃을 가져가고싶을때-->
+
+{% block title %}반복{% endblock %}
+
+{% block content %}
+<h3>반복문 예제</h3>
+<ul>
+    {% for user in users %}
+    <li>{{loop.index}}번째 사람 : {{user}}</li>     <!--loop.index는 1번부터 시작함-->
+    {% endfor %}
+</ul>
+
+<p>총 인원 : {{users | length}}</p>        <!--filter 문자( | ) : 를 통해서 옵션도 가능-->
+{% endblock %}

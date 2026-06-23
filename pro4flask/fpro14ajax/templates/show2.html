@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FETCH</title>
+</head>
+<body>
+<h2>FETCH</h2>
+<button id="loadBtn">상품 자료 읽기(fetch)</button>
+<table id="resultTable">
+
+</table>
+
+<script>
+    // 버튼 클릭 이벤트 리스너 등록
+    document.getElementById('loadBtn').addEventListener('click', function() {
+        // fetch API를 사용하여 서버의 '/api/sangdata' 경로로 GET 요청 전송
+        fetch('/api/sangdata') 
+        .then(response => {
+            // 응답 상태가 OK(200-299)가 아니면 에러 발생
+            if(!response.ok) {
+                throw new Error('서버 오류');
+            }
+            return response.json(); // 응답 본문을 JSON 객체로 파싱
+        })
+        .then(data => {
+            const table = document.getElementById('resultTable');
+            table.innerHTML = ''; // 기존 테이블 내용 초기화
+
+            // 데이터가 비어있는 경우 처리
+            if(data.length === 0) {
+                table.innerHTML = '<tr><td>자료 없음</td></tr>';
+                return;
+            }
+
+            // 테이블 헤더(th) 생성
+            let headerRow = '<tr>';
+                // 첫 번째 객체의 키(Key)값들을 추출하여 제목 행 구성
+                Object.keys(data[0]).forEach(key => {
+                    headerRow += `<th>${key}</th>`;
+                });
+            headerRow += '</tr>';
+            table.innerHTML += headerRow;
+            
+            // 데이터 행(td) 생성 및 추가
+            data.forEach(row => {
+                let lowHtml = '<tr>';
+                // 각 객체의 값(Value)들을 순회하며 셀 생성
+                Object.values(row).forEach(value => {
+                    lowHtml += `<td>${value}</td>`;
+                });
+                lowHtml += '</tr>';
+                table.innerHTML += lowHtml;
+            })
+        })
+        // 네트워크 오류나 then 블록 내의 에러 처리
+        .catch(error => {
+            alert('에러 : ' + error)
+        });
+    });
+</script>
+</body>
+</html>

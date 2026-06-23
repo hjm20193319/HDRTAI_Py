@@ -1,0 +1,16 @@
+{% extends "base.html" %}       <!--base.html의 형식을 상속받음__공통의 레이아웃을 가져가고싶을때-->
+
+{% block title %}메인 : jinja2{% endblock %}
+
+{% block content %}
+
+
+<h2>메인 : 템플릿 엔진의 조건문, 반복문, 필터, 상속</h2>
+<ul>
+    <li><a href="/condition">조건문</a></li>
+    <li><a href="/loop">반복문</a></li>
+    <li><a href="/filter">필터</a></li>
+
+</ul>
+
+{% endblock %}

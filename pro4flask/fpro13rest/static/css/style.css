@@ -1,0 +1,80 @@
+/*
+body{margin: 24px;}
+button{padding: 8px 12px; margin-top: 8px;}
+#result{margin-top: 20px; padding: 10px; }
+.error{color: red;}
+*/
+/* 전체적인 폰트와 배경 설정 */
+body {
+    margin: 40px;
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+    background-color: #f8f9fa; /* 아주 연한 회색 배경으로 눈을 편안하게 */
+    color: #333;
+}
+
+/* 입력창들을 감싸는 컨테이너 느낌 */
+h2 {
+    color: #2c3e50;
+    border-left: 5px solid #007bff; /* 제목 옆에 파란색 포인트 바 */
+    padding-left: 12px;
+    margin-bottom: 30px;
+}
+
+/* 입력 필드 스타일링 */
+input {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px; /* 모서리를 둥글게 */
+    margin-bottom: 10px;
+    transition: border-color 0.3s; /* 부드러운 색상 변경 */
+}
+
+input:focus {
+    border-color: #007bff; /* 클릭 시 파란색으로 강조 */
+    outline: none;
+}
+
+/* 버튼 스타일링: 훨씬 입체적으로! */
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s; /* 움직임 효과 */
+    box-shadow: 0 4px 6px rgba(0, 123, 255, 0.2); /* 은은한 파란 그림자 */
+}
+
+/* 버튼에 마우스 올렸을 때 */
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px); /* 살짝 위로 떠오르는 효과 */
+    box-shadow: 0 6px 12px rgba(0, 123, 255, 0.3);
+}
+
+/* 버튼을 누르는 순간 */
+button:active {
+    transform: translateY(0);
+}
+
+/* 결과창 스타일링: 하나의 카드처럼! */
+#result {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    min-height: 50px;
+}
+
+/* 에러 메시지 스타일 */
+.error {
+    color: #dc3545;
+    background-color: #fff5f5;
+    padding: 5%;
+    border-radius: 4px;
+    font-weight: bold;
+}

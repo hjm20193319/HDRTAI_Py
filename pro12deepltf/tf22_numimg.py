@@ -1,0 +1,31 @@
+# MNIST
+# 60,000개의 훈련 이미지와 10,000개의 손글씨 숫자 테스트 이미지를 포함
+# 데이터 세트는 28×28 픽셀 크기의 흑백 이미지로 구성
+
+# 손글씨 이미지 읽기
+from PIL import Image
+import numpy as np
+import matplotlib.pyplot as plt
+import koreanize_matplotlib
+
+im = Image.open('num.png')
+img = np.array(im.resize((28, 28), Image.Resampling.LANCZOS).convert('L'))
+# L 모드 : 흑백 이미지 픽셀값이 0~255 범위(0:검정, 255:흰색)
+print(img)
+
+plt.imshow(img, cmap='Greys')   # 색 반전
+plt.show()
+print('\n')
+
+data = img.reshape([1, 784]).astype('float32')
+print(data, data.shape)
+print('\n')
+
+data = data / 255.0
+print(data)
+print('\n')
+
+# (1, 784)로 정규화 됨 → (28, 28) 구조를 바꾼 후 시각화
+plt.imshow(data.reshape(28, 28), cmap='Greys')
+plt.show()
+print('\n')

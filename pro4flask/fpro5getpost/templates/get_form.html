@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GET_FORM</title>
+</head>
+<body>
+<h2>GET 방식 요청(요청명?변수=값)</h2>      <!--변수 나열할 때는 & 사용해서-->
+방법 1 : <br>
+<a href="/get_result?username=관우&age=25">get으로 자료 전달</a>
+<br>
+방법 2 : <br>
+<form action="get_result" method="get">
+    이름 : <input type="text" name="username"><br>
+    나이 : <input type="number" name="age"><br>
+    <input type="submit" name="전송"><br>
+</form>
+<!--작성 방법만 다름, 같은 방식, 같은 내용을 전달함-->
+</body>
+</html>

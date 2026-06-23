@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<script>
+    window.onload = () => {
+        document.querySelector('#btn1').onclick = funcJson;        // 클릭 시 실행결과가 아니라 실행할 수 있도록 함수의 주소를 할당(괄호가 없는 이유)
+        document.querySelector('#btn2').onclick = funcCsv;
+    }
+
+    let xhr;
+
+    function funcJson(){
+        let xhr = new XMLHttpRequest();
+
+        xhr.open('GET', 'sangpum.json', true);       // true : 비동기 방식, false : 동기 방식
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState === 4 && xhr.status === 200){         // 통신상태 확인
+                let data = JSON.parse(xhr.responseText);            // JSON 모양의 문자열을 json 객체로 변환
+
+                let output = "JSON 반환 결과<br>";
+                output += '코드&nbsp;&nbsp;&nbsp;품명<br>';
+                for(let i=0; i < data.length; i++){
+                    output += data[i].code + '&nbsp;&nbsp;&nbsp;' + data[i].sang + '<br>';
+                }
+                document.querySelector('#result').innerHTML = output;
+            }
+            else{
+                document.querySelector('#result').innerHTML = '로딩 실패 : ' + xhr.status;
+            }
+        }
+         xhr.send();         // 요청이 넘어감
+    }
+
+    function funcCsv(){
+        let xhr = new XMLHttpRequest();
+
+        xhr.open('GET', 'sangpum.csv', true);       // true : 비동기 방식, false : 동기 방식
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState === 4 && xhr.status === 200){         // 통신상태 확인
+                let text = xhr.responseText.trim()              // trim() : 앞뒤의 공백을 잘라줌(무의미한 공백)
+                let lines = text.split('\n');
+
+                let output = 'CSV 반환 결과<br>';
+
+                for(let i=0; i < lines.length; i++){
+                    if(lines[i] !== ''){
+                        let parts = lines[i].split(',');
+                        let code = parts[0].trim();
+                        let sang = parts[1].trim();
+                        output += "코드는" + code + ', 상품명은' + sang + '<br>';
+                    }
+                }
+                document.querySelector('#result').innerHTML = output;
+            }
+        }
+         xhr.send();         // 요청이 넘어감
+    }
+</script>
+
+</head>
+<body>
+<h3>전통 AJAX 처리</h3>
+<button id="btn1">Json 불러오기</button>
+<button id="btn2">CSV 불러오기</button>
+<hr>
+<div id="result"></div>
+</body>
+</html>

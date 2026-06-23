@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME</title>
+    <!--
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    -->
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <script src="{{url_for('static', filename='js/app.js')}}" defer></script>   <!--defer : html을 수행하고 나서 js를 실행하라는 뜻, 파싱의 순서 결정-->
+
+</head>
+<body>
+<h2>FLASK API + Ajax(fetch) GET 방식</h2>
+<div>
+    <div>
+        <label for="name">이름</label>      <!--radio button에서 중요함-->
+        <input id="name" type="text" value="길동" />
+    </div>
+    <div>
+        <label for="age">나이</label>      <!--radio button에서 중요함-->
+        <input id="age" type="number" value="23" min="1" />
+    </div>
+    <button id="sendBtn">GET(REST) 요청</button>       <!--js가 나올 것을 예상-->
+</div>
+<div id="result"></div>
+</body>
+</html>

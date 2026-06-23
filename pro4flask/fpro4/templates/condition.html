@@ -1,0 +1,17 @@
+{% extends "base.html" %}       <!--base.html의 형식을 상속받음__공통의 레이아웃을 가져가고싶을때-->
+
+{% block title %}조건문{% endblock %}
+
+{% block content %}
+<h3>조건 연습</h3>
+
+<!--서버에서 넘겨준 score값을 가지고 처리-->
+{% if score >= 90 %}            <!--html 안에 python이 들어감(순수 html이 아니라 jinja2 model : 파이썬을 처리해서 순수 html로 만들어줌)-->
+    <p>성적 : {{score}} -> a 등급</p>
+{% elif score >= 80 %}
+    <p>성적 : {{score}} -> b 등급</p>
+{% else %}
+    <p>성적 : {{score}} -> c 등급</p>
+{% endif %}
+
+{% endblock %}

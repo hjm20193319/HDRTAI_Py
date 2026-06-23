@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAIN</title>
+</head>
+<body>
+<h1>중환자 치료실에 입원 치료 받은 환자 생사여부 분류 모델</h1>
+<p>분류모델의 정확도 : {{acc}}</p>
+<br>
+<p>patient 데이터 일부 보기 : </p>
+<table border="1" style="border-collapse: 1px solid #ddd; text-align: center; width: 60%;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>ID</th>
+            <th>STA</th>
+            <th>AGE</th>
+            <th>SEX</th>
+            <th>RACE</th>
+            <th>SER</th>
+            <th>CAN</th>
+            <th>CRN</th>
+            <th>INF</th>
+            <th>CPR</th>
+            <th>HRA</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in p_data %}
+        <tr>
+            <td>{{ row.ID }}</td>
+            <td>{{ row.STA }}</td>
+            <td>{{ row.AGE }}</td>
+            <td>{{ row.SEX }}</td>
+            <td>{{ row.RACE }}</td>
+            <td>{{ row.SER }}</td>
+            <td>{{ row.CAN }}</td>
+            <td>{{ row.CRN }}</td>
+            <td>{{ row.INF }}</td>
+            <td>{{ row.CPR }}</td>
+            <td>{{ row.HRA }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<br>
+<a href="/show">입원 환자 데이터를 입력해 생사 여부 확인하기</a>
+
+</body>
+</html>

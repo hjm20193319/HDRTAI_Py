@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>listshow</title>
+</head>
+<body>
+<h2>직원 자료</h2>
+{{data | safe}}
+
+<h2>부서별 연봉합, 연봉평균</h2>
+{{paydata | safe}}
+
+<h2>세로 막대 그래프</h2>
+<img src="static/images/bar.png">
+
+<h2>성별 직급별 빈도표</h2>
+<img src="static/images/hist.png">
+
+<h2>크로스탭</h2>
+{{ctabdata | safe}}
+
+<h2>countplot 표시</h2>
+<img src="static/images/countplot.png">
+
+<h2>부서별 최고 연봉자</h2>
+{{payking | safe}}
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+---- 표 ----
+<br>
+<table border="1">          <! 테두리 두께 : 2번부터는 경고를 함..W3C에서 재정함 html:5 부터>
+    <tr>
+        <th>번호</th><th>이름</th><th>주소</th>             <! 굵게 >
+    </tr>
+    <tr>
+        <td width="100">1</td><td>가나다</td><td>강남구 역삼동</td>         <! 열의 넓이 지정 >
+    </tr>
+    <tr>
+        <td>2</td><td></td><td></td>
+    </tr>
+</table>
+<br>
+----열병합, 행병합----
+<br>
+<table border="1" width="200">
+    <tr>
+        <td colspan="2">a</td>      <! 열병합 >
+        <td>b</td>
+        <td rowspan="2">c</td>      <! 행병합 >
+    </tr>
+    <tr>
+        <td>셀(cell)</td>
+        <td><img src="images/car."></td>
+        <td>
+            <table border="2">
+                <td>kor</td>
+                <td>eng</td>
+            </table>
+        </td>
+    </tr>
+</table>
+<hr>
+---form 태그 : 자료 입력용 with 속해 있는 것들---
+<form method="get">
+    1. 이름 : <input type="text" name="name" id="irum" value="이기자" size="30" readonly />         <! single line editer >     <! name : 변수명 , 넘어 가는 값은 value >
+    <br>
+    2. 비밀번호 : <input type="password" name="pwd"/>
+    <br>
+    3. 메세지 : <textarea name="msg" cols="50" rows="5">멀티라인 텍스트 박스</textarea>
+    <br>
+    4. 학년 : <input type="radio" name="hak" value="1" checked>1학년            <! 4줄은 하나의 그룹 > 
+            <input type="radio" name="hak" value="1">2학년                      <! name으로 그룹을 구분함>
+            <input type="radio" name="hak2" value="1">3학년
+            <input type="radio" name="hak2" value="1">4학년
+    <br>
+    5. 과목 : <input type="checkbox" name="gwa" value="python">파이썬&nbsp;&nbsp;&nbsp;     <! 동시 선택, 미선택 가능 >
+                <input type="checkbox" name="gwa" value="c">c 언어&nbsp;&nbsp;&nbsp;
+                <input type="checkbox" name="gwa" value="java">자바<br>
+    
+    6. 지역 : <select name="addr">              <! multiple 옵션도 있음, 다중 선택 가능 >
+                <option value="c" selected>시청</option>            <! 늘어진 목록 >
+                <option value="j" selected>종로</option>
+                <option value="k" selected>강남</option>
+            </select>
+    <br>
+    7. <input type="file" name="fname">     <! 파일 선택 가능 > <! 서버나 파이썬에 파일을 보낼 수도 있다 >
+    <br>
+    8. 숨김 : <input type="hidden" name="hi" value="대한민국">      <! 넘겨주긴 해야하는데 보내주고 싶진 않을 때 >
+    <br><br>
+    <input type="submit" value="전송확인">          <! 자료 입력하고 누르면 내용 넘어감 >
+    <input type="reset" value="입력 취소">
+</form>
+</body>
+</html>

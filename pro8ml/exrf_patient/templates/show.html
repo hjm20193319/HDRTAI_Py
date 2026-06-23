@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHOW</title>
+</head>
+<body>
+<h2>입원 환자 데이터를 입력해 생사 여부 확인을 위한 자료 입력</h2>
+<pre>
+AGE : 나이
+
+SEX : 성별
+
+RACE : 인종
+
+SER : 중환자 치료실에서 받은 치료
+
+CAN : 암 존재 여부
+
+INF : 중환자 치료실에서의 감염 여부
+
+CPR : 중환자 치료실 도착 전 CPR여부
+
+HRA : 중환자 치료실에서의 심박수
+
+예 ) AGE  SEX  RACE  SER  CAN  INF  CPR  HRA
+     27   1     1     0    0    1    0    88
+</pre>
+<form action="/predict" method="post">
+    <table border="1" style="border-collapse: collapse; text-align: center;">
+        <tr>
+            <th>AGE</th>
+            <th>SEX</th>
+            <th>RACE</th>
+            <th>SER</th>
+            <th>CAN</th>
+        </tr>
+        <tr>
+            <td><input type="number" name="age" value="27" style="width: 50px;"></td>
+            <td><input type="number" name="sex" value="1" style="width: 50px;"></td>
+            <td><input type="number" name="race" value="1" style="width: 50px;"></td>
+            <td><input type="number" name="ser" value="0" style="width: 50px;"></td>
+            <td><input type="number" name="can" value="0" style="width: 50px;"></td>
+        </tr>
+        <tr>
+            <th>CRN</th>
+            <th>INF</th>
+            <th>CPR</th>
+            <th>HRA</th>
+            <td rowspan="2"></td> </tr>
+        <tr>
+            <td><input type="number" name="crn" value="0" style="width: 50px;"></td>
+            <td><input type="number" name="inf" value="1" style="width: 50px;"></td>
+            <td><input type="number" name="cpr" value="0" style="width: 50px;"></td>
+            <td><input type="number" name="hra" value="88" style="width: 50px;"></td>
+        </tr>
+        <tr>
+            <td colspan="5">
+                <button type="submit" style="width: 100%;">입력 완료</button>
+            </td>
+        </tr>
+    </table>
+</form>
+
+</body>
+</html>

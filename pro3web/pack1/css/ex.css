@@ -1,0 +1,28 @@
+/* css 파일 주석 */
+
+/* External 방식 */
+
+#myid2{
+    background-color: bisque;
+    color: crimson;
+    font-size: 20px;
+}
+
+/* 동적 선택자 */
+/* input:focus{background-color: #aabbcc;} */
+/* input:focus{background-color: silver;} */
+input:focus{background-color: rgb(255,255,0);}          /* 칸에 배경 색깔이 채워짐 */
+/* rgb(100%, 80%, 0%) 로 줄 수도 있다 */
+
+a:link{ text-decoration: none;}         /*밑줄 없애기*/
+a:hover{ color: coral; font-size: 30px;}        /*마우스를 올리면 기능이 됨 떼면 해제*/
+
+/*선택 연습*/
+b{font-size: 8px;}  /*굵어진건 b tag, 작아진건 설정 때문에*/
+div b{font-size: 16px; color: mediumspringgreen;}     /*div tag 자손(하위 계층 모두)들 모두 적용 됨*/
+/*div tag 하고 한 칸 띄고 b tag 쓰면 자손인 b tag 뜻하는 것*/
+div > b{font-size: 26px; color: mediumpurple;}   /*div tag 직계 자식만 해당*/
+div b#hi{font-size: 36px;}          /*id가 hi*/
+div b.hello{font-size: 46px;}       /*class가 hello*/
+
+/* id와 class를 사용해서 스타일을 세분화할 수 있다 */

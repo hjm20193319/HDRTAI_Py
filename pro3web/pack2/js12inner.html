@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INNER</title>
+    <script>
+        function func1(){
+            // alert('a');          ---작동 확인용
+            let str1 = document.getElementById('test1').innerHTML;
+            let str11 = document.querySelector('#test1').innerHTML;         // css selector 사용
+            // console.log(str1);
+            // console.log(str11);
+            // document.querySelector('#show1').innerHTML = str1;      // 값을 줄수도 있음
+            let tag1 = "이름 : <input type='text' name='irum'>";
+            let tag2 = "나이 : <input type='text' name='nai'>";
+            document.querySelector('#test1').innerHTML = tag1 + '<br>' + tag2;
+        
+        }
+
+        function func2(){
+            // alert('b');
+            let str2 = document.querySelector('#test2').innerHTML;         // css selector 사용
+            console.log(str2);
+            document.querySelector('#show2').innerText = str2; 
+        }
+
+
+    </script>
+</head>
+<body>
+<h3>** 실행 중 tag의 생성, 삭제, 데이터의 참조, 추가, 수정, 삭제 처리 가능 명령 **</h3>
+<pre>
+element.innerText;
+이 속성은 element 안의 text 값들만 대상으로 처리
+ 
+element.innerHTML;
+innerText와는 달리 innerHTML은 element 안의 text뿐 아니라 HTML이나 XML을 대상으로 처리
+</pre>
+<hr>
+<div id="test1"><h4>innerHTML연습</h4></div>
+<div id="test2"><h4>안녕하세요</h4></div>
+<input type="button" value="처리1" onclick="func1()">
+<input type="button" value="처리2" onclick="func2()">
+<br>
+<div id="show1">출력 1</div>
+<div id="show2">출력 2</div>
+</body>
+</html>

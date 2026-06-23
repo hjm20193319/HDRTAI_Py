@@ -1,0 +1,23 @@
+/* static/css/style.css */
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+h2 {
+    color: navy;
+    border-bottom: 2px solid navy;
+}
+
+a {
+    color: crimson;
+    text-decoration: none; /* 밑줄 제거 */
+    font-weight: bold;
+}
+
+a:hover {
+    color: darkred; /* 마우스를 올렸을 때 색상 변경 */
+    text-decoration: underline; /* 밑줄 추가 */
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>내장함수</title>
+</head>
+<body>
+<h2>** js의 대화상자 관련 함수 **</h2><hr>
+<script>
+let irum = 'Hong';
+let tel = '111-1111';
+alert('name ' + irum + '\nphone number is ' + tel);     // 메세지 창 출력, 진행 도중 만나면 일시정지
+console.log('name ' + irum + '\nphone number is ' + tel);       // 메세지 창 해결 뒤에 계속 진행
+
+document.write(`<br>alert 함수 수행 후 계속`);
+
+let result = confirm('continue??');         // 선택 창
+document.write(`<br>선택한 값은  ` + result);       // true or false
+
+// 키보드로 입력값을 받을 때
+let juso = prompt('enter your address', 'seoul');
+document.write(`<br>ADDRess : `, juso);
+
+
+</script>
+</body>
+</html>

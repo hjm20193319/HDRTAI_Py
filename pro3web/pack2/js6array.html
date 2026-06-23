@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARRAY</title>
+
+    <style>
+        @keyframes blink-effect {
+          /* 애니메이션의 50% 지점에서 투명도를 0 (완전 투명)으로 만듭니다. */
+          50% {
+            opacity: 0;
+          }
+        }
+
+        /* 'blinking-text' 라는 클래스를 가진 요소에 애니메이션을 적용합니다. */
+        .blinktest {
+          animation: blink-effect 1s step-end infinite;
+          /*
+             - blink-effect: 위에서 만든 애니메이션 이름
+             - 1s: 애니메이션이 한 번 실행되는 데 걸리는 시간 (1초)
+             - step-end: 애니메이션을 부드럽게가 아니라 탁탁 끊어지게 만듦 (깜빡이는 느낌)
+             - infinite: 애니메이션을 무한 반복
+          */
+        }
+    </style>
+</head>
+<body>
+<h3> J.S Array 배열 </h3>
+<hr>
+<pre>
+: 자바스크립트에서 배열은 다수의 값을 저장하고 운영하는 데 사용되는 기본적인 데이터 구조이다.
+ 순서가 있는 여러 개의 자료를 대표명을 주고 첨자(index)로 각 기억장소를 구분하는 자료 구조
+ "반복 처리가 효과적이다"
+ 형식 : 배열명 = new Array( );
+</pre>
+<script type="text/javascript">
+let aa = new Array();           // 배열 선언 : 크기가 가변적----new Array(3) 도 가능하지만 권장X
+// aa는 배열 변수명, 여러개의 기억장소가 잡힐 수 있다
+aa[0] = 10;
+aa[1] = 5.6;        // 배열 요소값 type은 마음대로
+aa[3] = "결과는";
+aa[4] = "안녕";
+aa[5] = true;
+aa[6] = {kbs:9, sbs:5}      // json type도 가능하다 -> {key:value} 형식
+document.write(aa, ' ', typeof(aa));        // 배열 타입은 object, 객체 변수
+document.write(`<br>${aa[0]}  ${aa[1]}  전체 크기 : ${aa.length}<br>`)
+let su = 0, su2 = 0;
+document.write(`${aa[0]}  ${aa[su]} ${aa[su]}<br>`)       // 첨자는 상수 또는 변수도 가능
+
+let bb = new Array(100, 200, 300)       // 베열 선언 시 초기치 부여
+document.write(`${bb[0]} ${bb[1]} ${bb[2]}<br>`)
+
+let cc = [];        // 배열 리터럴 : 비어 있는 배열 선언
+cc[0] = 'tom';
+cc.push(23);
+cc.push('seoul');
+cc.push(82, 1234, 5678);        // 여러개를 한번에 값을 줄수도 있다
+document.write(cc, '<br>');
+cc[99] = 'wow';     // 메모리는 확보했지만, 값은 없다(중간에)
+document.write(`cc 배열의 크기는 : ${cc.length}`);
+
+document.write('<hr>**반복처리**<br>');
+let dd = new Array();       // 배열 선언 후 for를 통해 자료 입출력
+for(let m = 0; m < 10; m++) {
+    dd[m] = m + 1;
+}
+document.write('dd[0] : ', dd[0], '<br>')
+
+for(let m = 0; m < 10; m++) {
+    document.write(dd[m] + '&nbsp;&nbsp;&nbsp;');       // 일반 사용자에게 출력
+    console.log(dd[m]);                                 // 개발자가 개발 도중 값 참조 시 사용    
+}
+
+document.write('<br>');
+
+let myarr = [
+    'hello', true, 3.5, {name:'tom'},
+    function(){
+        document.write('I am fx');
+    }
+]
+document.write(myarr[0], ' ');
+document.write(myarr[3].name, '<br>');
+myarr[4]();      // 함수 실행
+
+document.write('<hr>');
+document.write('** 배열 요소 출력 for **<br>');
+let korea = ['연필', '지우개', '노트'];
+// 방법1
+for(let i = 0; i < korea.length; i++) {
+    document.write(korea[i] + ' ');
+}
+document.write('<br>');
+// 방법2
+for(let i in korea) {
+    document.write(korea[i] + ' ');
+}
+document.write('<br>');
+// 방법3
+for(let i of korea) {
+    document.write(i + ' ');
+}
+
+document.write('<hr>');
+// 배열 요소 제거 : delete, splice
+let ar = ['i', 'go', 'home'];
+delete ar[1]    // go 삭제, 자리는 남음
+document.write(ar, ' ', ar.length);
+document.write('<br>');
+ar = ['i', 'go', 'home'];
+ar.splice(1, 1);     // 인데스 1부터 1까지 삭제
+document.write(ar, ' ', ar.length); // 자리까지 삭제
+document.write('<br>');
+
+// 구조 분해 할당 : 배열, 객체의 값들을 추출하여 한 번에 여러 변수에 할당함
+let nums = [1,2,3,4];
+let [a1, a2, a3] = nums;
+document.write(`${a1} ${a2} ${a3}`);
+
+document.write('<br>');
+
+// 전개 연산자 : ...
+const fruits = ['apple', 'peach', 'melon'];
+const imsi = [...fruits]; //배열에 담기
+document.write(imsi);
+</script>
+<p><h2 class="blinktest">
+    아 집 가고 싶다
+</h2></p>
+</body>
+</html>

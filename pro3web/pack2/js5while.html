@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WHILE</title>
+</head>
+<body>
+<h3>** 반목문 while **</h3><hr>
+<script>
+let k = 0;
+while(k < 10) {             // 조건식이 참인 동안 수행
+    k++;
+    
+    if(k === 3 || k === 5)
+    continue;
+    document.write(k + ' ');
+
+    if(k === 9)
+    break;
+}
+</script>
+</body>
+</html>

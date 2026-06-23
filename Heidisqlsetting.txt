@@ -1,0 +1,681 @@
+LastSessions<|||>1<|||>mysession
+LastActiveSession<|||>1<|||>mysession
+SessionManager_WindowLeft<|||>3<|||>437
+SessionManager_WindowTop<|||>3<|||>257
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>58,100,172,90,60,65,50,130,130,155,100,100,50,50,50
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+ColSort_frmTableEditor.listColumns<|||>1<|||>0,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>148,100,80,120,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>196,80,100,80,80,74
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,410
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+SQL Attr Comment Foreground<|||>3<|||>13828244
+SQL Attr Comment Background<|||>3<|||>13959039
+SQL Attr Comment Style<|||>3<|||>3
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Background<|||>3<|||>536870911
+SQL Attr ConditionalComment Style<|||>3<|||>2
+SQL Attr ConsoleOutput Foreground<|||>3<|||>536870911
+SQL Attr ConsoleOutput Background<|||>3<|||>536870911
+SQL Attr ConsoleOutput Style<|||>3<|||>5
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DataType Background<|||>3<|||>536870911
+SQL Attr DataType Style<|||>3<|||>1
+SQL Attr DefaultPackages Foreground<|||>3<|||>536870911
+SQL Attr DefaultPackages Background<|||>3<|||>536870911
+SQL Attr DefaultPackages Style<|||>3<|||>1
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr DelimitedIdentifier Background<|||>3<|||>536870911
+SQL Attr DelimitedIdentifier Style<|||>3<|||>0
+SQL Attr Exception Foreground<|||>3<|||>536870911
+SQL Attr Exception Background<|||>3<|||>536870911
+SQL Attr Exception Style<|||>3<|||>2
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Function Background<|||>3<|||>536870911
+SQL Attr Function Style<|||>3<|||>1
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Identifier Background<|||>3<|||>536870911
+SQL Attr Identifier Style<|||>3<|||>0
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Key Background<|||>3<|||>536870911
+SQL Attr Key Style<|||>3<|||>1
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr Number Background<|||>3<|||>536870911
+SQL Attr Number Style<|||>3<|||>0
+SQL Attr PLSQL-ReservedWord Foreground<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Background<|||>3<|||>536870911
+SQL Attr PLSQL-ReservedWord Style<|||>3<|||>1
+SQL Attr ProcName Foreground<|||>3<|||>536870911
+SQL Attr ProcName Background<|||>3<|||>536870911
+SQL Attr ProcName Style<|||>3<|||>0
+SQL Attr Space Foreground<|||>3<|||>536870911
+SQL Attr Space Background<|||>3<|||>536870911
+SQL Attr Space Style<|||>3<|||>0
+SQL Attr SQLPlus-Command Foreground<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Background<|||>3<|||>536870911
+SQL Attr SQLPlus-Command Style<|||>3<|||>1
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr String Background<|||>3<|||>536870911
+SQL Attr String Style<|||>3<|||>0
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr Symbol Background<|||>3<|||>536870911
+SQL Attr Symbol Style<|||>3<|||>0
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr TableName Background<|||>3<|||>536870911
+SQL Attr TableName Style<|||>3<|||>0
+SQL Attr Variable Foreground<|||>3<|||>8388736
+SQL Attr Variable Background<|||>3<|||>536870911
+SQL Attr Variable Style<|||>3<|||>0
+FieldEditor_Set<|||>3<|||>1
+querymemoheight<|||>3<|||>510
+queryhelperswidth<|||>3<|||>25
+dbtreewidth<|||>3<|||>236
+DataPreviewHeight<|||>3<|||>125
+sqloutheight<|||>3<|||>100
+MainWinMaximized<|||>3<|||>1
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,168
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+MainWinWidth<|||>3<|||>879
+MainWinHeight<|||>3<|||>466
+FileDialogEncoding_MainForm<|||>3<|||>0
+StopOnErrorsInBatchMode<|||>3<|||>0
+DisplayBLOBsAsText<|||>3<|||>0
+CodeFolding<|||>3<|||>0
+FindDialogSearchHistory<|||>1<|||>CONSTr<{{{><}}}>CONST<{{{><}}}>
+SQLFile0<|||>1<|||>C:\work\projects\MariaDB_SQL\수업용.sql
+SQLFile1<|||>1<|||>C:\work\projects\MariaDB_SQL\실습파일.sql
+Servers\mysession\SessionCreated<|||>1<|||>2026-02-11 11:06:21
+Servers\mysession\Host<|||>1<|||>127.0.0.1
+Servers\mysession\WindowsAuth<|||>3<|||>0
+Servers\mysession\CleartextPluginEnabled<|||>3<|||>0
+Servers\mysession\User<|||>1<|||>root
+Servers\mysession\Password<|||>1<|||>3334352
+Servers\mysession\LoginPrompt<|||>3<|||>0
+Servers\mysession\Port<|||>1<|||>3306
+Servers\mysession\NetType<|||>3<|||>0
+Servers\mysession\Compressed<|||>3<|||>0
+Servers\mysession\LocalTimeZone<|||>3<|||>0
+Servers\mysession\QueryTimeout<|||>3<|||>30
+Servers\mysession\KeepAlive<|||>3<|||>20
+Servers\mysession\FullTableStatus<|||>3<|||>1
+Servers\mysession\Databases<|||>1<|||>
+Servers\mysession\Library<|||>1<|||>libmariadb.dll
+Servers\mysession\Comment<|||>1<|||>
+Servers\mysession\StartupScriptFilename<|||>1<|||>
+Servers\mysession\TreeBackground<|||>3<|||>536870911
+Servers\mysession\SSHtunnelActive<|||>3<|||>0
+Servers\mysession\SshExecutable<|||>1<|||>
+Servers\mysession\SSHtunnelHost<|||>1<|||>
+Servers\mysession\SSHtunnelHostPort<|||>3<|||>22
+Servers\mysession\SSHtunnelUser<|||>1<|||>
+Servers\mysession\SSHtunnelPassword<|||>1<|||>3
+Servers\mysession\SSHtunnelTimeout<|||>3<|||>4
+Servers\mysession\SSHtunnelPrivateKey<|||>1<|||>
+Servers\mysession\SSHtunnelPort<|||>3<|||>3307
+Servers\mysession\SSL_Active<|||>3<|||>0
+Servers\mysession\SSL_Key<|||>1<|||>
+Servers\mysession\SSL_Cert<|||>1<|||>
+Servers\mysession\SSL_CA<|||>1<|||>
+Servers\mysession\SSL_Cipher<|||>1<|||>
+Servers\mysession\SSL_Verification<|||>3<|||>2
+Servers\mysession\IgnoreDatabasePattern<|||>1<|||>
+Servers\mysession\LogFileDdl<|||>3<|||>0
+Servers\mysession\LogFileDml<|||>3<|||>0
+Servers\mysession\LogFilePath<|||>1<|||>C:\Users\hjm20\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\mysession\ServerVersionFull<|||>1<|||>11.8.6-MariaDB - MariaDB Server
+Servers\mysession\ConnectCount<|||>3<|||>8
+Servers\mysession\ServerVersion<|||>3<|||>110806
+Servers\mysession\LastConnect<|||>1<|||>2026-02-24 09:18:40
+Servers\mysession\lastUsedDB<|||>1<|||>test
+Servers\mysession\QueryHistory\1<|||>1<|||>2026-02-11 11:20:11|test|16|CREATE TABLE dept(NO INT PRIMARY KEY, NAME VARCHAR(10), tel VARCHAR(15), inwon INT, addr TEXT) CHARSET=UTF8;
+Servers\mysession\QueryHistory\2<|||>1<|||>2026-02-11 11:40:11|test|15|INSERT INTO dept(NO, NAME, tel, inwon, addr) VALUES(1, '인사과', '111-1111', 3, '삼성동12');<{{{><}}}>INSERT INTO dept VALUES(2, '엽업과', '111-2222', 5, '서초동12');
+Servers\mysession\QueryHistory\5<|||>1<|||>2026-02-11 11:49:20|test|0|SELECT * FROM dept
+Servers\mysession\QueryHistory\4<|||>1<|||>2026-02-11 11:53:24|test|0|-- err : NO 는 P. k 생략 불가<{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM dept
+Servers\mysession\QueryHistory\6<|||>1<|||>2026-02-11 11:54:57|test|16|INSERT INTO dept (NO, NAME) VALUES (3, '자재과');<{{{><}}}>INSERT INTO dept (NO, addr, tel, NAME) VALUES (4, '역삼2동 33', '111-5555', '자재2과');
+Servers\mysession\QueryHistory\3<|||>1<|||>2026-02-11 12:00:39|test|31|INSERT INTO dept(NO, NAME, tel, inwon, addr) VALUES(1, '인사과', '111-1111', 3, '삼성동12');<{{{><}}}>INSERT INTO dept VALUES(2, '영업과', '111-2222', 5, '서초동12');<{{{><}}}>INSERT INTO dept(NO, NAME) VALUES (3, '자재과');<{{{><}}}>INSERT INTO dept(NO, addr, tel, NAME) VALUES (4, '역삼2동 33', '111-5555', '자재2과');
+Servers\mysession\QueryHistory\8<|||>1<|||>2026-02-11 12:02:46|test|0|UPDATE dept SET tel = '123-4567' WHERE NO = 2;
+Servers\mysession\QueryHistory\7<|||>1<|||>2026-02-11 12:03:39|test|31|SELECT * FROM dept WHERE NO = 1;
+Servers\mysession\QueryHistory\9<|||>1<|||>2026-02-11 12:06:50|test|16|UPDATE dept SET addr = '압구정동33', inwon = 7, tel = '777-8888' WHERE NO = 3;
+Servers\mysession\QueryHistory\10<|||>1<|||>2026-02-11 12:11:27|test|16|DELETE FROM dept WHERE NAME = '자재2과';
+Servers\mysession\QueryHistory\11<|||>1<|||>2026-02-11 12:12:57|test|16|truncate table dept;
+Servers\mysession\QueryHistory\13<|||>1<|||>2026-02-11 12:13:01|test|0|SELECT * FROM dept;
+Servers\mysession\QueryHistory\12<|||>1<|||>2026-02-11 12:14:40|test|32|DROP TABLE dept;
+Servers\mysession\QueryHistory\14<|||>1<|||>2026-02-11 12:36:54|test|16|CREATE TABLE aa(bun INT PRIMARY KEY, irum CHAR(10));
+Servers\mysession\QueryHistory\15<|||>1<|||>2026-02-11 12:36:59|test|0|SELECT * FROM information_schema.TABLE_CONSTRAINTS WHERE TABLE_NAME = 'aa';
+Servers\mysession\QueryHistory\16<|||>1<|||>2026-02-11 12:38:55|test|31|INSERT INTO aa VALUES(1, 'tom');<{{{><}}}>INSERT INTO aa VALUES(2, 'tom');<{{{><}}}>SELECT * FROM aa;
+Servers\mysession\QueryHistory\17<|||>1<|||>2026-02-11 12:41:33|test|0|INSERT INTO aa(bun) VALUES(3);
+Servers\mysession\QueryHistory\20<|||>1<|||>2026-02-11 12:44:39|test|16|CREATE TABLE aa(bun INT, irum CHAR(10), CONSTRAINT aa_bun_pk PRIMARY KEY(bun));<{{{><}}}>INSERT INTO aa VALUES(1, 'tom');<{{{><}}}>SELECT * FROM aa;
+Servers\mysession\QueryHistory\19<|||>1<|||>2026-02-11 12:48:59|test|16|CREATE TABLE aa(bun INT, nai INT CHECK(nai >= 20));
+Servers\mysession\QueryHistory\22<|||>1<|||>2026-02-11 12:50:13|test|0|INSERT INTO aa VALUES(1, 23);
+Servers\mysession\QueryHistory\18<|||>1<|||>2026-02-11 13:18:15|test|16|CREATE TABLE jikwon(bun INT PRIMARY KEY, irum VARCHAR(10) NOT NULL, buser CHAR(10) NOT NULL);<{{{><}}}>INSERT INTO jikwon VALUES(1, '한송이', '인사과');<{{{><}}}>INSERT INTO jikwon VALUES(2, '이기자', '인사과');<{{{><}}}>INSERT INTO jikwon VALUES(3, '한송이', '판매과');<{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\24<|||>1<|||>2026-02-11 14:46:00|test|15|CREATE TABLE gajok(CODE INT PRIMARY KEY, NAME VARCHAR(10) NOT NULL, birth DATETIME, jikwonbun INT, FOREIGN KEY(jikwonbun) REFERENCES jikwon(bun));
+Servers\mysession\QueryHistory\25<|||>1<|||>2026-02-11 14:46:04|test|0|INSERT INTO gajok VALUES(10, '한가해', '2015-05-12', 3);
+Servers\mysession\QueryHistory\27<|||>1<|||>2026-02-11 14:47:11|test|16|INSERT INTO gajok VALUES(20, '공기밥', '2011-12-12', 2);
+Servers\mysession\QueryHistory\29<|||>1<|||>2026-02-11 14:49:33|test|16|INSERT INTO gajok VALUES(30, '심심해', '2010-05-12', 3);
+Servers\mysession\QueryHistory\30<|||>1<|||>2026-02-11 14:49:37|test|0|SELECT * FROM gajok;
+Servers\mysession\QueryHistory\26<|||>1<|||>2026-02-11 14:51:08|test|16|DELETE FROM jikwon WHERE bun = 1;
+Servers\mysession\QueryHistory\31<|||>1<|||>2026-02-11 14:51:13|test|0|SELECT * FROM gajok;<{{{><}}}>
+Servers\mysession\QueryHistory\32<|||>1<|||>2026-02-11 14:55:48|test|0|DELETE FROM gajok WHERE jikwonbun = 2;
+Servers\mysession\QueryHistory\33<|||>1<|||>2026-02-11 14:56:02|test|15|DELETE FROM jikwon WHERE bun = 2;
+Servers\mysession\QueryHistory\34<|||>1<|||>2026-02-11 14:56:07|test|0|SELECT * FROM jikwon;
+Servers\mysession\QueryHistory\28<|||>1<|||>2026-02-11 15:03:00|test|63|DROP TABLE gajok;<{{{><}}}>DROP TABLE jikwon;
+Servers\mysession\QueryHistory\35<|||>1<|||>2026-02-11 15:09:02|test|15|CREATE TABLE aa(bun INT AUTO_INCREMENT PRIMARY KEY, juso CHAR(20) DEFAULT '강남구 역삼동');
+Servers\mysession\QueryHistory\36<|||>1<|||>2026-02-11 15:10:04|test|0|INSERT INTO aa VALUES(1, '서초구 서초2동');<{{{><}}}>SELECT * FROM aa;
+Servers\mysession\QueryHistory\37<|||>1<|||>2026-02-11 15:11:11|test|0|INSERT INTO aa(juso) VALUES('서초구 서초3동');<{{{><}}}>INSERT INTO aa(juso) VALUES('서초구 서초4동');
+Servers\mysession\QueryHistory\21<|||>1<|||>2026-02-11 15:15:10|test|15|INSERT INTO aa(bun) VALUES(5);
+Servers\mysession\QueryHistory\38<|||>1<|||>2026-02-11 15:16:17|test|0|INSERT INTO aa(bun) VALUES(6);
+Servers\mysession\QueryHistory\23<|||>1<|||>2026-02-11 15:45:02|test|47|CREATE TABLE 교수(교수코드 INT PRIMARY KEY, 교수명 VARCHAR(10), 연구실번호 INT CHECK(연구실번호 >= 100 AND 연구실번호  <= 500));
+Servers\mysession\QueryHistory\41<|||>1<|||>2026-02-11 15:53:29|test|594|CREATE TABLE 학생(학번 INT PRIMARY KEY, 학생명 VARCHAR(10), 수강과목 INT(15), FOREIGN KEY(수강과목) REFERENCES 과목(과목코드), 학년번호 INT DEFAULT 1 CHECK(학년번호 >= 1 AND 학년번호 <= 4));
+Servers\mysession\QueryHistory\42<|||>1<|||>2026-02-11 15:59:07|test|0|INSERT INTO 교수 VALUES(3, '사아자', 333);
+Servers\mysession\QueryHistory\44<|||>1<|||>2026-02-11 15:59:11|test|0|SELECT * FROM 교수
+Servers\mysession\QueryHistory\43<|||>1<|||>2026-02-11 16:02:20|test|0|INSERT INTO 과목(과목명, 교재명, 담당교수) VALUES('과학', '과학책', 3);
+Servers\mysession\QueryHistory\45<|||>1<|||>2026-02-11 16:02:48|test|0|INSERT INTO 과목(과목명, 교재명, 담당교수) VALUES('미술', '미술책', 1);<{{{><}}}>
+Servers\mysession\QueryHistory\46<|||>1<|||>2026-02-11 16:02:54|test|0|SELECT * FROM 과목
+Servers\mysession\QueryHistory\47<|||>1<|||>2026-02-11 16:05:49|test|0|INSERT INTO 학생 VALUES(1, '김가나', 1, 2);
+Servers\mysession\QueryHistory\48<|||>1<|||>2026-02-11 16:07:40|test|0|INSERT INTO 학생(학번, 학생명, 수강과목) VALUES(2, '김다라', 1);<{{{><}}}>INSERT INTO 학생 VALUES(3, '김마바', 3, 4);<{{{><}}}>
+Servers\mysession\QueryHistory\49<|||>1<|||>2026-02-11 16:07:45|test|0|SELECT * FROM 학생
+Servers\mysession\QueryHistory\50<|||>1<|||>2026-02-11 16:25:37|test|78|DROP TABLE 학생;<{{{><}}}>DROP TABLE 과목;<{{{><}}}>DROP TABLE 교수;
+Servers\mysession\QueryHistory\51<|||>1<|||>2026-02-11 16:36:26|test|31|CREATE TABLE 교수(교수코드 INT PRIMARY KEY, 교수명 VARCHAR(10), 연구실번호 INT CHECK(연구실번호 >= 100 AND 연구실번호  <= 500));<{{{><}}}>CREATE TABLE 과목(과목코드 INT auto_increment PRIMARY KEY, 과목명 VARCHAR(15) UNIQUE, 교재명 VARCHAR(20), 담당교수 INT(10), FOREIGN KEY(담당교수) REFERENCES 교수(교수코드));
+Servers\mysession\QueryHistory\52<|||>1<|||>2026-02-11 16:41:05|test|31|DROP TABLE 과목;<{{{><}}}>DROP TABLE 교수;
+Servers\mysession\QueryHistory\53<|||>1<|||>2026-02-11 16:53:54|test|46|CREATE TABLE aa(bun INT PRIMARY KEY, irum VARCHAR(10) NOT NULL, juso VARCHAR(50));<{{{><}}}>INSERT INTO aa VALUES(1, '신선해', '테헤란로111');<{{{><}}}>SELECT * FROM aa;
+Servers\mysession\QueryHistory\54<|||>1<|||>2026-02-11 16:54:15|test|16|EXPLAIN SELECT * FROM aa;
+Servers\mysession\QueryHistory\55<|||>1<|||>2026-02-11 16:55:45|test|0|DESC aa;<{{{><}}}>SHOW INDEX FROM aa;
+Servers\mysession\QueryHistory\56<|||>1<|||>2026-02-11 17:02:17|test|16|ALTER TABLE aa ADD INDEX ind_juso(juso);
+Servers\mysession\QueryHistory\58<|||>1<|||>2026-02-11 17:05:07|test|31|ALTER TABLE aa DROP INDEX ind_juso;
+Servers\mysession\QueryHistory\59<|||>1<|||>2026-02-11 17:05:13|test|0|SHOW INDEX FROM aa;
+Servers\mysession\QueryHistory\39<|||>1<|||>2026-02-11 17:08:32|test|15|CREATE TABLE aa(bun INT PRIMARY KEY, irum VARCHAR(10), juso VARCHAR(50));<{{{><}}}>INSERT INTO aa VALUES (1, 'tom', 'seoul');<{{{><}}}>SELECT * FROM aa;
+Servers\mysession\QueryHistory\60<|||>1<|||>2026-02-11 17:10:08|test|15|ALTER TABLE aa RENAME kbs;
+Servers\mysession\QueryHistory\61<|||>1<|||>2026-02-11 17:11:20|test|0|SELECT * FROM kbs;
+Servers\mysession\QueryHistory\62<|||>1<|||>2026-02-11 17:13:18|test|16|ALTER TABLE kbs RENAME aa;
+Servers\mysession\QueryHistory\63<|||>1<|||>2026-02-11 17:13:59|test|15|ALTER TABLE aa ADD (job_id INT DEFAULT 10);
+Servers\mysession\QueryHistory\40<|||>1<|||>2026-02-11 17:15:54|test|16|ALTER TABLE aa CHANGE job_id job_num INT;
+Servers\mysession\QueryHistory\65<|||>1<|||>2026-02-11 17:15:58|test|0|SELECT * FROM aa;
+Servers\mysession\QueryHistory\64<|||>1<|||>2026-02-11 17:17:49|test|31|ALTER TABLE aa MODIFY job_num VARCHAR(10);
+Servers\mysession\QueryHistory\66<|||>1<|||>2026-02-11 17:17:52|test|16|DESC aa;
+Servers\mysession\QueryHistory\67<|||>1<|||>2026-02-11 17:19:03|test|31|ALTER TABLE aa DROP COLUMN job_num;
+Servers\mysession\QueryHistory\68<|||>1<|||>2026-02-11 17:19:13|test|0|DESC aa
+Servers\mysession\QueryHistory\69<|||>1<|||>2026-02-11 17:31:04|test|62|DROP TABLE aa;
+Servers\mysession\QueryHistory\57<|||>1<|||>2026-02-11 17:39:55|test|0|SELECT * FROM sangdata;<{{{><}}}>SELECT * FROM buser;<{{{><}}}>SELECT * FROM jikwon;<{{{><}}}>SELECT * FROM gogek;<{{{><}}}>SELECT * FROM board;
+Servers\mysession\QueryHistory\70<|||>1<|||>2026-02-12 10:01:19|test|0|-- --------------------------------------------------------------------------<{{{><}}}><{{{><}}}>DESC sangdata
+Servers\mysession\QueryHistory\71<|||>1<|||>2026-02-12 10:02:08|test|0|DESC buser
+Servers\mysession\QueryHistory\73<|||>1<|||>2026-02-12 10:16:51|test|16|DESC gogek
+Servers\mysession\QueryHistory\74<|||>1<|||>2026-02-12 10:42:33|test|0|-- 특정 칼럼만 읽기<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\75<|||>1<|||>2026-02-12 10:43:02|test|0|-- 모든 칼럼 읽기<{{{><}}}>SELECT jikwonno, jikwonname FROM jikwon
+Servers\mysession\QueryHistory\76<|||>1<|||>2026-02-12 10:43:31|test|0|-- select : db 서버로부터 클라이언트로 ***자료를 읽는 명령***<{{{><}}}>-- select 칼럼명 as 별명, ...from 테이블명 where 조건  order by 기준키,...<{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\77<|||>1<|||>2026-02-12 10:45:12|test|0|-- selection : 특정 칼럼만 읽기 , projection : 원하는 레코드만 읽기<{{{><}}}>SELECT jikwonno, jikwongen, busernum, jikwonname FROM jikwon
+Servers\mysession\QueryHistory\78<|||>1<|||>2026-02-12 10:47:41|test|0|-- 순서 선택 가능<{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명 FROM jikwon
+Servers\mysession\QueryHistory\79<|||>1<|||>2026-02-12 10:50:32|test|0|-- 별명 지정 가능<{{{><}}}>SELECT 10, '안녕', 12 / 3 FROM DUAL
+Servers\mysession\QueryHistory\80<|||>1<|||>2026-02-12 10:51:49|test|0|-- 별명 지정 가능<{{{><}}}>SELECT 10, '안녕', 12 / 3 as 결과 FROM DUAL
+Servers\mysession\QueryHistory\81<|||>1<|||>2026-02-12 10:52:02|test|0|-- 가상의 테이블을 만듦 DB서버에서 한 작업 아님!<{{{><}}}>SELECT jikwonname, jikwonpay FROM jikwon
+Servers\mysession\QueryHistory\82<|||>1<|||>2026-02-12 10:52:50|test|15|-- 가상의 테이블을 만듦 DB서버에서 한 작업 아님! / 수식은 계산 됨<{{{><}}}>SELECT jikwonname, jikwonpay, jikwonpay * 0.05 FROM jikwon
+Servers\mysession\QueryHistory\83<|||>1<|||>2026-02-12 10:53:38|test|0|-- 가상의 테이블을 만듦 DB서버에서 한 작업 아님! / 수식은 계산 됨<{{{><}}}>SELECT jikwonname, jikwonpay, jikwonpay * 0.05 as tax FROM jikwon
+Servers\mysession\QueryHistory\84<|||>1<|||>2026-02-12 10:54:54|test|0|-- 연산에 의해서 램에 기존 칼럼을 가공해서 칼럼 생성 가능<{{{><}}}>SELECT jikwonname, CONCAT(jikwonname, '님') AS jikwonetc FROM jikwon
+Servers\mysession\QueryHistory\85<|||>1<|||>2026-02-12 10:57:59|test|0|-- 기존 칼럼 가공 /  CONCAT : 문자열 더하기 함수 <{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 정렬 SORT <{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\86<|||>1<|||>2026-02-12 10:58:33|test|16|-- 기존 칼럼 가공 /  CONCAT : 문자열 더하기 함수 <{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 정렬 SORT <{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonpay asc
+Servers\mysession\QueryHistory\87<|||>1<|||>2026-02-12 10:59:29|test|0|-- 칼럼명 직접 작성하는 것이 원칙, 계산속도가 더 빠름 / jikwonpay를 기준으로 오름차순 정렬<{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonpay
+Servers\mysession\QueryHistory\88<|||>1<|||>2026-02-12 11:00:12|test|0|-- 오름차순은 생략가능(기본값)<{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonpay DESC
+Servers\mysession\QueryHistory\89<|||>1<|||>2026-02-12 11:00:29|test|46|-- 내림차순 DESC<{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonjik ASC
+Servers\mysession\QueryHistory\90<|||>1<|||>2026-02-12 11:01:46|test|0|-- 문자열은 사전식으로 정렬<{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonjik ASC, busernum DESC, jikwongen ASC, jikwonpay ASC
+Servers\mysession\QueryHistory\91<|||>1<|||>2026-02-12 11:05:11|test|31|-- 1,2,3,4차키 부여 : 직원 직급별 > 부서별 > 성별 > 급여별 순으로 분류 가능<{{{><}}}>SELECT jikwonname, jikwonpay, jikwonpay / 100 * 100 AS pay FROM jikwon ORDER BY pay DESC
+Servers\mysession\QueryHistory\92<|||>1<|||>2026-02-12 11:08:40|test|0|-- distinct 중복 배제 : 칼럼 데이터의 종류를 알고 싶을 때<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\93<|||>1<|||>2026-02-12 11:09:55|test|32|SELECT distinct jikwonjik FROM jikwon
+Servers\mysession\QueryHistory\94<|||>1<|||>2026-02-12 11:13:57|test|0|-- 불가!<{{{><}}}><{{{><}}}><{{{><}}}>-- 연산자 : () > 산술 > 관계(비교) > is null, like, in > between, not > and > or<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '대리'
+Servers\mysession\QueryHistory\95<|||>1<|||>2026-02-12 11:14:55|test|0|-- 레코드 선택 가능<{{{><}}}>SELECT * FROM jikwon WHERE jikwonno = 3
+Servers\mysession\QueryHistory\96<|||>1<|||>2026-02-12 11:15:41|test|0|SELECT * FROM jikwon WHERE jikwonibsail = '2010-03-03'
+Servers\mysession\QueryHistory\97<|||>1<|||>2026-02-12 11:16:20|test|15|SELECT * FROM jikwon WHERE jikwonno = 5 OR jikwonno = 7
+Servers\mysession\QueryHistory\98<|||>1<|||>2026-02-12 11:17:30|test|0|SELECT * FROM jikwon WHERE jikwonjik = '사원' AND jikwongen = '여'
+Servers\mysession\QueryHistory\99<|||>1<|||>2026-02-12 11:18:24|test|0|SELECT * FROM jikwon WHERE jikwonjik = '사원' AND jikwongen = '여' AND jikwonpay <= 4000
+Servers\mysession\QueryHistory\100<|||>1<|||>2026-02-12 11:18:32|test|0|SELECT * FROM jikwon WHERE jikwonjik = '사원' AND jikwongen = '여' AND jikwonpay <= 3000
+Servers\mysession\QueryHistory\102<|||>1<|||>2026-02-12 11:37:25|test|31|SELECT * FROM jikwon WHERE jikwonno >= 5 AND jikwonno <= 10
+Servers\mysession\QueryHistory\103<|||>1<|||>2026-02-12 11:37:52|test|16|SELECT * FROM jikwon WHERE jikwonno BETWEEN 5 AND 10
+Servers\mysession\QueryHistory\104<|||>1<|||>2026-02-12 11:38:59|test|0|-- 위와 같은 결과<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail BETWEEN '2017-1-1' AND '2019-12-31'
+Servers\mysession\QueryHistory\105<|||>1<|||>2026-02-12 11:40:05|test|0|-- between 은 문자도 가능함<{{{><}}}>SELECT * FROM jikwon WHERE jikwonno < 5 or jikwonno > 20
+Servers\mysession\QueryHistory\106<|||>1<|||>2026-02-12 11:40:57|test|0|SELECT * FROM jikwon WHERE jikwonno BETWEEN 5 AND 20
+Servers\mysession\QueryHistory\107<|||>1<|||>2026-02-12 11:41:11|test|0|SELECT * FROM jikwon WHERE jikwonno not BETWEEN 5 AND 20
+Servers\mysession\QueryHistory\108<|||>1<|||>2026-02-12 11:43:55|test|0|-- 위와 같은 결과  --> 부정적 조건은 연산속도가 떨어짐<{{{><}}}><{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay >= 5000
+Servers\mysession\QueryHistory\109<|||>1<|||>2026-02-12 11:44:15|test|0|SELECT * FROM jikwon WHERE jikwonpay > 3000 + 2000
+Servers\mysession\QueryHistory\110<|||>1<|||>2026-02-12 11:45:28|test|0|-- 산술이 관계보다 우선순위가 높기 때문에 위와 결과는 같다<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname >= '박'
+Servers\mysession\QueryHistory\111<|||>1<|||>2026-02-12 11:45:57|test|0|-- 산술이 관계보다 우선순위가 높기 때문에 위와 결과는 같다<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname >= '이'
+Servers\mysession\QueryHistory\112<|||>1<|||>2026-02-12 11:46:12|test|0|-- 산술이 관계보다 우선순위가 높기 때문에 위와 결과는 같다<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname >= '이' ORDER BY jikwonname
+Servers\mysession\QueryHistory\113<|||>1<|||>2026-02-12 11:46:54|test|0|SELECT ASCII('a'), ASCII('A') FROM DUAL
+Servers\mysession\QueryHistory\114<|||>1<|||>2026-02-12 11:48:28|test|0|SELECT ASCII('a'), ASCII('A'), ASCII('가'), ASCII('나') FROM DUAL
+Servers\mysession\QueryHistory\115<|||>1<|||>2026-02-12 11:49:07|test|0|SELECT * FROM jikwon WHERE jikwonname BETWEEN '김' AND '박'
+Servers\mysession\QueryHistory\116<|||>1<|||>2026-02-12 11:49:32|test|0|SELECT * FROM jikwon WHERE jikwonname BETWEEN '김' AND '이'
+Servers\mysession\QueryHistory\117<|||>1<|||>2026-02-12 11:51:10|test|0|-- 이 전가지만 나옴<{{{><}}}><{{{><}}}><{{{><}}}>-- in 멤버 조건 연산<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '대리' OR jikwonjik = '과장' OR jikwonjik = '부장'
+Servers\mysession\QueryHistory\118<|||>1<|||>2026-02-12 11:51:57|test|0|SELECT * FROM jikwon WHERE jikwonjik IN('대리', '과장', '부장')
+Servers\mysession\QueryHistory\119<|||>1<|||>2026-02-12 11:52:49|test|0|-- or가 연속적으로 나올 때 in 연산자 사용 가능<{{{><}}}>SELECT * FROM jikwon WHERE jikwonno IN(3, 12, 29)
+Servers\mysession\QueryHistory\120<|||>1<|||>2026-02-12 11:54:18|test|0|-- like 조건 연산 : %(0개 이상의 문자열), _(한개 문자)<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '이%'
+Servers\mysession\QueryHistory\121<|||>1<|||>2026-02-12 11:56:07|test|0|--  첫글자가 '이'로 시작하는 글자, 이후 글자는 어떤 글자도 상관 없음 <{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '이순%'
+Servers\mysession\QueryHistory\122<|||>1<|||>2026-02-12 11:56:21|test|0|SELECT * FROM jikwon WHERE jikwonname LIKE '이순라%'
+Servers\mysession\QueryHistory\123<|||>1<|||>2026-02-12 11:56:28|test|0|SELECT * FROM jikwon WHERE jikwonname LIKE '라%'
+Servers\mysession\QueryHistory\124<|||>1<|||>2026-02-12 11:56:36|test|0|SELECT * FROM jikwon WHERE jikwonname LIKE '%라'
+Servers\mysession\QueryHistory\125<|||>1<|||>2026-02-12 11:57:16|test|0|--  앞글자는 상관 없고 마지막 글자가 '라'인 레코드<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '이%라'
+Servers\mysession\QueryHistory\127<|||>1<|||>2026-02-12 11:58:30|test|0|-- 두번째 세번째 글자는 아무거나 , 이로 시작하는 세글자짜리 <{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\126<|||>1<|||>2026-02-12 11:58:33|test|0|-- 가운데에는 글자수 상관 없이 아무글자, 첫과 마지막만 지정<{{{><}}}><{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '이__'
+Servers\mysession\QueryHistory\128<|||>1<|||>2026-02-12 11:59:55|test|0|-- 두번째 세번째 글자는 아무거나 , 이로 시작하는 세글자짜리  / 언더바는 글자수를지정 <{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '__'
+Servers\mysession\QueryHistory\130<|||>1<|||>2026-02-12 12:00:56|test|0|-- 두글자 짜리 이름<{{{><}}}>SELECT * FROM jikwon WHERE jikwonname LIKE '_' * 3
+Servers\mysession\QueryHistory\129<|||>1<|||>2026-02-12 12:05:31|test|0|SELECT * FROM gogek WHERE gogekjumin LIKE '%-1%'
+Servers\mysession\QueryHistory\131<|||>1<|||>2026-02-12 12:05:43|test|0|-- 두글자 짜리 이름<{{{><}}}><{{{><}}}>SELECT * FROM gogek WHERE gogekjumin LIKE '_______1%'
+Servers\mysession\QueryHistory\134<|||>1<|||>2026-02-12 12:06:57|test|0|UPDATE jikwon SET jikwonjik = NULL WHERE jikwonno = 5
+Servers\mysession\QueryHistory\132<|||>1<|||>2026-02-12 12:08:18|test|15|SELECT * FROM jikwon WHERE jikwonjik = NULL
+Servers\mysession\QueryHistory\135<|||>1<|||>2026-02-12 12:09:01|test|0|-- NULL은 이렇게 하면 안됨<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik IS NULL
+Servers\mysession\QueryHistory\136<|||>1<|||>2026-02-12 12:09:31|test|0|-- NULL 사용법<{{{><}}}><{{{><}}}>SELECT * FROM jikwon LIMIT 3
+Servers\mysession\QueryHistory\137<|||>1<|||>2026-02-12 12:10:15|test|0|-- 앞에서부터 3개만<{{{><}}}>SELECT * FROM jikwon ORDER BY jikwonno DESC LIMIT 3
+Servers\mysession\QueryHistory\138<|||>1<|||>2026-02-12 12:11:16|test|0|-- 뒤에서부터 3개만<{{{><}}}>SELECT * FROM jikwon LIMIT 5,3
+Servers\mysession\QueryHistory\140<|||>1<|||>2026-02-12 12:16:14|test|0|-- 시작 행, 개수 (인덱스는 0번째부터)<{{{><}}}><{{{><}}}><{{{><}}}>-- 조합<{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonjik AS 직급, jikwonpay AS 연봉,<{{{><}}}>jikwonpay / 12 AS 보너스, jikwonibsail AS 입사일 FROM jikwon<{{{><}}}>WHERE jikwonjik IN('과장', '부장','사원')<{{{><}}}>AND jikwonpay >= 4000 AND jikwonibsail BETWEEN '2025-1-1' AND '2019-12-31'<{{{><}}}>ORDER BY jikwonjik, jikwonpay
+Servers\mysession\QueryHistory\141<|||>1<|||>2026-02-12 12:16:37|test|0|-- select 뿐만 아니라 다른 명령어에도 사용가능하다<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\139<|||>1<|||>2026-02-12 12:16:42|test|0|-- 시작 행, 개수 (인덱스는 0번째부터)<{{{><}}}><{{{><}}}><{{{><}}}>-- 조합<{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonjik AS 직급, jikwonpay AS 연봉,<{{{><}}}>jikwonpay / 12 AS 보너스, jikwonibsail AS 입사일 FROM jikwon<{{{><}}}>WHERE jikwonjik IN('과장', '부장','사원')<{{{><}}}>AND jikwonpay >= 4000 AND jikwonibsail BETWEEN '2015-1-1' AND '2019-12-31'<{{{><}}}>ORDER BY jikwonjik, jikwonpay
+Servers\mysession\QueryHistory\142<|||>1<|||>2026-02-12 12:16:57|test|0|-- 시작 행, 개수 (인덱스는 0번째부터)<{{{><}}}><{{{><}}}><{{{><}}}>-- 조합<{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonjik AS 직급, jikwonpay AS 연봉,<{{{><}}}>jikwonpay / 12 AS 보너스, jikwonibsail AS 입사일 FROM jikwon<{{{><}}}>WHERE jikwonjik IN('과장', '부장','사원')<{{{><}}}>AND jikwonpay >= 4000 AND jikwonibsail BETWEEN '2015-1-1' AND '2019-12-31'<{{{><}}}>ORDER BY jikwonjik, jikwonpay DESC LIMIT 3
+Servers\mysession\QueryHistory\143<|||>1<|||>2026-02-12 12:37:07|test|0|SELECT LOWER ('Hello'), UPPER ('Hello') FROM DUAL;
+Servers\mysession\QueryHistory\144<|||>1<|||>2026-02-12 12:38:07|test|0|SELECT LENGTH('hello world'), INSTR('hello world', 'e') FROM DUAL;
+Servers\mysession\QueryHistory\145<|||>1<|||>2026-02-12 12:38:50|test|0|SELECT REPLACE('010.111.1234','.','-') FROM DUAL
+Servers\mysession\QueryHistory\146<|||>1<|||>2026-02-12 12:41:19|test|0|-- 글자 바꿔줌<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\147<|||>1<|||>2026-02-12 12:41:24|test|0|-- select 뿐만 아니라 다른 명령어에도 사용가능하다<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 내장 함수 : 데이터 조작의 효율성 증진이 목적<{{{><}}}>-- 단일 행 함수 : 각 행에 대해 작업한다. 행 단위 처리<{{{><}}}>-- 문자 함수<{{{><}}}>SELECT LOWER ('Hello'), UPPER ('Hello') FROM DUAL
+Servers\mysession\QueryHistory\149<|||>1<|||>2026-02-12 12:44:50|test|0|-- 글자 바꿔줌<{{{><}}}><{{{><}}}>-- 직원 테이블에서 이름에 '이' 가 포함된 직원이 있으면 '이'부터 두글자 출력하기<{{{><}}}>SELECT jikwonname FROM jikwon WHERE jikwonname LIKE '&이&'
+Servers\mysession\QueryHistory\148<|||>1<|||>2026-02-12 12:46:46|test|16|-- 글자 바꿔줌<{{{><}}}><{{{><}}}>-- 직원 테이블에서 이름에 '이' 가 포함된 직원이 있으면 '이'부터 두글자 출력하기<{{{><}}}>SELECT jikwonname, SUBSTR(jikwonname, INSTR(jikwonname, 'dl'),2) FROM jikwon WHERE jikwonname LIKE '%이%'
+Servers\mysession\QueryHistory\150<|||>1<|||>2026-02-12 12:47:18|test|0|-- 글자 바꿔줌<{{{><}}}><{{{><}}}>-- 직원 테이블에서 이름에 '이' 가 포함된 직원이 있으면 '이'부터 두글자 출력하기<{{{><}}}>SELECT jikwonname, SUBSTR(jikwonname, INSTR(jikwonname, '이'),2) FROM jikwon WHERE jikwonname LIKE '%이%'
+Servers\mysession\QueryHistory\151<|||>1<|||>2026-02-12 12:48:36|test|0|-- 숫자 함수<{{{><}}}>SELECT ROUND(45.678, 2), ROUND(45.678), ROUND(45.678, 0), ROUND(45.678, -1) FROM DUAL
+Servers\mysession\QueryHistory\152<|||>1<|||>2026-02-12 12:50:26|test|0|-- 반올림 함수<{{{><}}}><{{{><}}}>SELECT jikwonname, jikwonpay, jikwonpay * 0.25 AS tax, ROUND(jikwonpay * 0.25, 0) FROM jikwon
+Servers\mysession\QueryHistory\153<|||>1<|||>2026-02-12 12:50:44|test|0|-- 반올림 함수<{{{><}}}><{{{><}}}>SELECT jikwonname, jikwonpay, jikwonpay * 0.25 AS tax, ROUND(jikwonpay * 0.25, 0) AS round FROM jikwon
+Servers\mysession\QueryHistory\154<|||>1<|||>2026-02-12 12:51:53|test|0|SELECT TRUNCATE(45.678, 0), TRUNCATE(45.678, 1), TRUNCATE(45.678, -10) FROM DUAL
+Servers\mysession\QueryHistory\156<|||>1<|||>2026-02-12 12:53:43|test|0|-- 버림<{{{><}}}><{{{><}}}>SELECT MOD(15, 2), 15 / 2 FROM DUAL
+Servers\mysession\QueryHistory\157<|||>1<|||>2026-02-12 12:54:38|test|0|-- 나머지<{{{><}}}><{{{><}}}>SELECT GREATEST(23, 25, 5, 1, 12), LEAST(23, 25, 5, 1, 12) FROM DUAL
+Servers\mysession\QueryHistory\158<|||>1<|||>2026-02-12 12:56:11|test|16|-- 날짜 함수<{{{><}}}>SELECT NOW(), NOW() + 2, SYSDATE(), CURDATE() FROM DUAL
+Servers\mysession\QueryHistory\159<|||>1<|||>2026-02-12 12:58:23|test|3000|-- 값을 연산에 참여시킬 수 있다<{{{><}}}>SELECT NOW(), SLEEP(3), NOW() FROM DUAL
+Servers\mysession\QueryHistory\160<|||>1<|||>2026-02-12 12:59:29|test|3015|-- 한 쿼리 안에서는 NOW는 동일 값을 유지<{{{><}}}>SELECT SYSDATE(), SLEEP(3), SYSDATE() FROM DUAL
+Servers\mysession\QueryHistory\161<|||>1<|||>2026-02-12 13:02:24|test|0|-- SYSDATE는 실행 시점 값 출력<{{{><}}}><{{{><}}}>SELECT ADDDATE('2020-08-01',3), ADDDATE('2020-08-01',-3) FROM DUAL
+Servers\mysession\QueryHistory\162<|||>1<|||>2026-02-12 13:03:20|test|0|-- SYSDATE는 실행 시점 값 출력<{{{><}}}><{{{><}}}>SELECT ADDDATE('2020-08-01',3), ADDDATE('2020-08-01',-3), SUBDATE('2020-08-01',3)FROM DUAL
+Servers\mysession\QueryHistory\163<|||>1<|||>2026-02-12 13:05:22|test|0|-- 날짜 더하고 빼기,, 윤년도 반영함<{{{><}}}><{{{><}}}>SELECT DATE_ADD(NOW(), INTERVAL 1 MINUTE), DATE_ADD(NOW(), INTERVAL 5 DAY), DATE_ADD(NOW(), INTERVAL 5 MONTH) FROM DUAL
+Servers\mysession\QueryHistory\164<|||>1<|||>2026-02-12 13:06:55|test|16|SELECT DATEDIFF(NOW(), '2025-5-5') FROM DUAL
+Servers\mysession\QueryHistory\165<|||>1<|||>2026-02-12 13:10:01|test|16|-- 날짜 차이<{{{><}}}><{{{><}}}><{{{><}}}>-- 형 변환 함수<{{{><}}}>SELECT NOW(), DATE_FORMAT(NOW(), '%Y%m%d'), DATE_FORMAT(NOW(), '%Y년 %m월 %d일')			-- 서식을 지정하는 것<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\167<|||>1<|||>2026-02-12 13:16:57|test|0|SELECT STR_TO_DATE('2026-02-12', '%Y-%m-%d') FROM DUAL
+Servers\mysession\QueryHistory\168<|||>1<|||>2026-02-12 13:17:04|test|0|SELECT STR_TO_DATE('2026-02-12 13:16:34', '%Y-%m-%d %H-%i-%S') FROM DUAL
+Servers\mysession\QueryHistory\169<|||>1<|||>2026-02-12 13:17:18|test|0|SELECT STR_TO_DATE('2026-02-12 13:16:34', '%Y-%m-%d %H-%I-%S') FROM DUAL
+Servers\mysession\QueryHistory\170<|||>1<|||>2026-02-12 13:17:41|test|0|SELECT STR_TO_DATE('2026-02-12 13:16:34', '%Y-%m-%d %H:%i:%S') FROM DUAL
+Servers\mysession\QueryHistory\171<|||>1<|||>2026-02-12 14:35:25|test|0|-- 기타 함수<{{{><}}}>-- RANK : 순위를 결정<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon
+Servers\mysession\QueryHistory\172<|||>1<|||>2026-02-12 14:36:32|test|16|-- 기타 함수<{{{><}}}>-- RANK : 순위를 결정<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay, RANK() OVER (ORDER BY jikwonpay) FROM jikwon
+Servers\mysession\QueryHistory\173<|||>1<|||>2026-02-12 14:37:59|test|0|-- 기타 함수<{{{><}}}>-- RANK : 순위를 결정<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay, RANK() OVER (ORDER BY jikwonpay), dense_RANK() OVER (ORDER BY jikwonpay) FROM jikwon
+Servers\mysession\QueryHistory\174<|||>1<|||>2026-02-12 14:40:26|test|0|-- 기타 함수<{{{><}}}>-- RANK : 순위를 결정<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay, RANK() OVER (ORDER BY jikwonpay desc) AS result, dense_RANK() OVER (ORDER BY jikwonpay desc) as result2 FROM jikwon
+Servers\mysession\QueryHistory\175<|||>1<|||>2026-02-12 14:43:10|test|0|-- 동점자 누적 처리가 됨 / dense_RANK() 는 동점자 누적 처리가 안됨<{{{><}}}>-- 기본적으로는 오름차순 처리함<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- nvl(value1, value2) : value1이 NULL 이면 value2를 취함<{{{><}}}>SELECT jikwonname, jikwonjik FROM jikwon
+Servers\mysession\QueryHistory\176<|||>1<|||>2026-02-12 14:44:00|test|0|-- 동점자 누적 처리가 됨 / dense_RANK() 는 동점자 누적 처리가 안됨<{{{><}}}>-- 기본적으로는 오름차순 처리함<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- nvl(value1, value2) : value1이 NULL 이면 value2를 취함<{{{><}}}>SELECT jikwonname, jikwonjik, nvl(jikwonjik, '임시직') FROM jikwon
+Servers\mysession\QueryHistory\178<|||>1<|||>2026-02-12 14:46:32|test|0|-- nvl2(value1, value2, value3) : value1이 NULL이면 value3<{{{><}}}>SELECT jikwonname, jikwonjik, nvl2(jikwonjik, '정규직', '임시직') AS 비고 FROM jikwon
+Servers\mysession\QueryHistory\179<|||>1<|||>2026-02-12 14:49:08|test|0|-- NULLIF(value1, value2) : 두개의 값이 일치하면 NULL, 아니면 value1 취함<{{{><}}}>SELECT jikwonname, jikwonjik, NULLIF(jikwonjik, '대리') FROM jikwon
+Servers\mysession\QueryHistory\181<|||>1<|||>2026-02-12 14:53:32|test|0|-- 조건 표현식 <{{{><}}}>-- 형식 1) <{{{><}}}>-- case 표현식 when 비교값1 then 결과값1 when 비교값2 then 결과값2 ... [else 결과값n] end as 별명<{{{><}}}>SELECT case 10 / 2 when 5 then '안녕' when 2 then '반가워' ELSE '잘가' END AS 결과 FROM DUAL
+Servers\mysession\QueryHistory\182<|||>1<|||>2026-02-12 14:53:37|test|0|-- 조건 표현식 <{{{><}}}>-- 형식 1) <{{{><}}}>-- case 표현식 when 비교값1 then 결과값1 when 비교값2 then 결과값2 ... [else 결과값n] end as 별명<{{{><}}}>SELECT case 10 / 1 when 5 then '안녕' when 2 then '반가워' ELSE '잘가' END AS 결과 FROM DUAL
+Servers\mysession\QueryHistory\183<|||>1<|||>2026-02-12 14:53:46|test|0|-- 조건 표현식 <{{{><}}}>-- 형식 1) <{{{><}}}>-- case 표현식 when 비교값1 then 결과값1 when 비교값2 then 결과값2 ... [else 결과값n] end as 별명<{{{><}}}>SELECT case 10 / 5 when 5 then '안녕' when 2 then '반가워' ELSE '잘가' END AS 결과 FROM DUAL
+Servers\mysession\QueryHistory\180<|||>1<|||>2026-02-12 15:02:15|test|0|SELECT jikwonname, case when jikwongen = '남' then '남성' when jikwongen = '여' then '여성' END AS gender FROM jikwon;
+Servers\mysession\QueryHistory\184<|||>1<|||>2026-02-12 15:05:34|test|0|SELECT jikwonname, jikwonpay, case when jikwonpay >= 7000 then '우수연봉' when jikwonpay >= 5000 then '보통연봉' ELSE '저조' END AS result, jikwongen FROM jikwon WHERE jikwonjik IN ('대리', '과장');
+Servers\mysession\QueryHistory\185<|||>1<|||>2026-02-12 15:08:48|test|0|-- if(조건) 참값, 거짓값 as 별명<{{{><}}}>SELECT jikwonname, jikwonpay, jikwonjik, if(TRUNCATE(jikwonpay / 1000,0) >= 5, 'good', 'normal') AS result FROM jikwon
+Servers\mysession\QueryHistory\186<|||>1<|||>2026-02-12 15:11:44|test|0|SELECT jikwonname, jikwonpay, jikwonjik, case jikwonjik when '이사' then jikwonpay * 0.05 when '부장' then jikwonpay * 0.04 when '과장' then jikwonpay * 0.03<{{{><}}}>ELSE jikwonpay * 0.02 END AS donation FROM jikwon
+Servers\mysession\QueryHistory\187<|||>1<|||>2026-02-12 15:26:33|test|0|SELECT jikwonname, jikwonibsail, DATE_FORMAT(jikwonibsail, '%W') FROM jikwon WHERE busernum = 10
+Servers\mysession\QueryHistory\188<|||>1<|||>2026-02-12 15:33:27|test|0|SELECT jikwonname AS '직원명', DATEDIFF(NOW(), jikwonibsail) AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\189<|||>1<|||>2026-02-12 15:34:55|test|15|SELECT jikwonname AS '직원명', DATE_FORMAT(DATEDIFF(NOW(), jikwonibsail), '%Y') AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\190<|||>1<|||>2026-02-12 15:35:27|test|0|SELECT jikwonname, jikwonibsail, DATE_FORMAT(jikwonibsail, '%Y') FROM jikwon WHERE busernum = 10
+Servers\mysession\QueryHistory\166<|||>1<|||>2026-02-12 15:37:45|test|0|SELECT jikwonname AS '직원명', DATEDIFF(NOW(), jikwonibsail) / 365 AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\191<|||>1<|||>2026-02-12 15:38:06|test|0|SELECT TRUNCATE(45.678, 0), TRUNCATE(45.678, 1), TRUNCATE(45.678, -1) FROM DUAL
+Servers\mysession\QueryHistory\155<|||>1<|||>2026-02-12 15:38:35|test|0|SELECT jikwonname AS '직원명', truncate(DATEDIFF(NOW(), jikwonibsail), 0) / 365 AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\192<|||>1<|||>2026-02-12 15:38:43|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail), 0) / 365 AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\193<|||>1<|||>2026-02-12 15:39:07|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수' FROM jikwon
+Servers\mysession\QueryHistory\194<|||>1<|||>2026-02-12 15:41:24|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then '감사합니다' ELSE '열심히' END AS '표현', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당' FROM jikwon
+Servers\mysession\QueryHistory\195<|||>1<|||>2026-02-12 15:46:24|test|0|-- 여러 조건을 동시에 만족시키는 레코드 값을 선택할 수 있음<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '사원' AND (jikwongen = '여' OR jikwonibsail >= '2017-01-01')
+Servers\mysession\QueryHistory\101<|||>1<|||>2026-02-12 15:49:56|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then '감사합니다' ELSE '열심히' END AS '표현', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당' FROM jikwon WHERE jikwonibsail >= '2010-01-01'
+Servers\mysession\QueryHistory\196<|||>1<|||>2026-02-12 15:50:33|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then '감사합니다' ELSE '열심히' END AS '표현', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당', jikwonibsail AS '입사일 확인용' FROM jikwon WHERE jikwonibsail >= '2010-01-01'
+Servers\mysession\QueryHistory\197<|||>1<|||>2026-02-12 15:50:57|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 10 then '감사합니다' ELSE '열심히' END AS '표현', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당', jikwonibsail AS '입사일 확인용' FROM jikwon WHERE jikwonibsail >= '2010-01-01'
+Servers\mysession\QueryHistory\198<|||>1<|||>2026-02-12 15:51:15|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 10 then '감사합니다' ELSE '열심히' END AS '표현(10년 기준)', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 5 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당', jikwonibsail AS '입사일 확인용' FROM jikwon WHERE jikwonibsail >= '2010-01-01'
+Servers\mysession\QueryHistory\199<|||>1<|||>2026-02-12 15:51:32|test|0|SELECT jikwonname AS '직원명', TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) AS '근무년수', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 10 then '감사합니다' ELSE '열심히' END AS '표현(10년 기준)', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 10 then jikwonpay * 0.05 ELSE jikwonpay * 0.03 END AS '특별수당', jikwonibsail AS '입사일 확인용' FROM jikwon WHERE jikwonibsail >= '2010-01-01'
+Servers\mysession\QueryHistory\200<|||>1<|||>2026-02-12 15:58:43|test|0|-- 2번 연습문제<{{{><}}}>SELECT jikwonname AS '직원명', jikwonjik AS '직급', jikwonibsail AS '입사년월일', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 8 then '왕고참' when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 3 then '보통' ELSE '일반' END AS '구분', busernum AS '부서' FROM jikwon
+Servers\mysession\QueryHistory\202<|||>1<|||>2026-02-12 16:04:13|test|0|-- 2번 연습문제<{{{><}}}>SELECT jikwonname AS '직원명', jikwonjik AS '직급', jikwonibsail AS '입사년월일', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 8 then '왕고참' when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 3 then '보통' ELSE '일반' END AS '구분', case when busernum = '10' then '총무부' when busernum = '20' then '영업부' when busernum = '30' then '전산부' when busernum = '40' then '관리부' END AS '부서' FROM jikwon
+Servers\mysession\QueryHistory\204<|||>1<|||>2026-02-12 17:11:19|test|0|-- 3번 연습문제<{{{><}}}>SELECT jikwonno AS '사번', jikwonname AS '직원명', busernum AS '부서', jikwonpay AS '연봉', case when busernum = 10 then round(jikwonpay * 1.1, 0) when busernum = 30 then round(jikwonpay * 1.2, 0) ELSE jikwonpay END AS '인상연봉', case when TRUNCATE(DATEDIFF(NOW(), jikwonibsail) / 365, 0) >= 10 then 'O' ELSE 'X' END AS '장기근속(10년기준)' FROM jikwon
+Servers\mysession\QueryHistory\201<|||>1<|||>2026-02-12 17:16:47|test|0|-- 집계 함수(복수행 함수) : 전체 자료를 그룹별로 구분해 통계 결과를 얻기 위한 함수<{{{><}}}>SELECT jikwonpay FROM jikwon
+Servers\mysession\QueryHistory\205<|||>1<|||>2026-02-12 17:17:03|test|16|-- 집계 함수(복수행 함수) : 전체 자료를 그룹별로 구분해 통계 결과를 얻기 위한 함수<{{{><}}}>SELECT sum(jikwonpay) FROM jikwon
+Servers\mysession\QueryHistory\206<|||>1<|||>2026-02-12 17:17:53|test|0|-- 집계 함수(복수행 함수) : 전체 자료를 그룹별로 구분해 통계 결과를 얻기 위한 함수<{{{><}}}>SELECT sum(jikwonpay) AS 합, AVG(jikwonpay) as 평균 FROM jikwon
+Servers\mysession\QueryHistory\207<|||>1<|||>2026-02-12 17:18:35|test|0|SELECT max(jikwonpay) AS 최대, min(jikwonpay) as 최소 FROM jikwon
+Servers\mysession\QueryHistory\208<|||>1<|||>2026-02-12 17:19:15|test|0|SELECT jikwonname, max(jikwonpay) AS 최대, min(jikwonpay) as 최소 FROM jikwon
+Servers\mysession\QueryHistory\209<|||>1<|||>2026-02-12 17:19:46|test|0|SELECT jikwonname, jikwonjik, max(jikwonpay) AS 최대, jikwonname, jikwonjik, min(jikwonpay) as 최소 FROM jikwon
+Servers\mysession\QueryHistory\210<|||>1<|||>2026-02-12 17:21:30|test|16|desc jikwon;
+Servers\mysession\QueryHistory\211<|||>1<|||>2026-02-12 17:22:39|test|0|-- NULL 할때는 항상 확인하고 하기<{{{><}}}><{{{><}}}>SELECT AVG(jikwonpay), AVG(nvl(jikwonpay, 0)) FROM jikwon
+Servers\mysession\QueryHistory\212<|||>1<|||>2026-02-12 17:23:52|test|0|SELECT SUM(jikwonpay) / 29, SUM(jikwonpay) / 30 FROM jikwon
+Servers\mysession\QueryHistory\213<|||>1<|||>2026-02-12 17:27:45|test|0|-- 둘이 같은결과<{{{><}}}><{{{><}}}>SELECT COUNT(jikwonno), COUNT(jikwonpay) FROM jikwon
+Servers\mysession\QueryHistory\214<|||>1<|||>2026-02-12 17:29:11|test|0|-- NULL 처리X<{{{><}}}>SELECT COUNT(*) AS 인원수 FROM jikwon
+Servers\mysession\QueryHistory\215<|||>1<|||>2026-02-12 17:30:55|test|0|-- NULL, NOT NULL 찾기 어려우니까 전체 건수로 처리<{{{><}}}>SELECT stddev(jikwonno) AS 표준편차, var_samp(jikwonpay) AS 분산 FROM jikwon
+Servers\mysession\QueryHistory\217<|||>1<|||>2026-02-12 17:33:04|test|0|SELECT COUNT(*) AS 인원, VAR_SAMP(jikwonpay) AS 분산 FROM jikwon WHERE busernum = 20
+Servers\mysession\QueryHistory\218<|||>1<|||>2026-02-12 17:33:11|test|0|SELECT COUNT(*) AS 인원, VAR_SAMP(jikwonpay) AS 분산 FROM jikwon WHERE busernum = 10
+Servers\mysession\QueryHistory\216<|||>1<|||>2026-02-13 09:46:08||0|-- 과장은 몇명인지 알고싶을 때<{{{><}}}>SELECT COUNT(*) AS 인원수 FROM jikwon WHERE jikwonjik = '과장'
+Servers\mysession\QueryHistory\219<|||>1<|||>2026-02-13 09:48:02||0|--<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\220<|||>1<|||>2026-02-13 09:48:11||0|-- 2010 년 이전에 입사한 남 직원은 몇 명?<{{{><}}}>select COUNT(*) AS 인원수 FROM jikwon WHERE jikwonibsail < '2010-1-1' AND jikwongen = '남'
+Servers\mysession\QueryHistory\221<|||>1<|||>2026-02-13 09:50:43||0|-- 2015년 이후 입사한 여직원의 연봉합,연봉 평균, 인원수는?<{{{><}}}>SELECT SUM(jikwonpay) AS 연봉합, AVG(jikwonpay) AS 연봉평균, COUNT(*) AS 인원tn FROM jikwon WHERE jikwonibsail > '2015-1-1' AND jikwongen = '여'
+Servers\mysession\QueryHistory\222<|||>1<|||>2026-02-13 09:50:55||0|-- 2015년 이후 입사한 여직원의 연봉합,연봉 평균, 인원수는?<{{{><}}}>SELECT SUM(jikwonpay) AS 연봉합, AVG(jikwonpay) AS 연봉평균, COUNT(*) AS 인원수 FROM jikwon WHERE jikwonibsail > '2015-1-1' AND jikwongen = '여'
+Servers\mysession\QueryHistory\203<|||>1<|||>2026-02-13 10:16:27|test|0|SELECT busernum, SUM(jikwonpay) AS paytotal FROM jikwon WHERE jikwongen = '여'
+Servers\mysession\QueryHistory\226<|||>1<|||>2026-02-13 10:23:08|test|0|-- 부서별 연봉합 : 연봉함이 15000이상만 여성만<{{{><}}}>SELECT busernum, SUM(jikwonpay) FROM jikwon WHERE jikwongen = '여' GROUP BY busernum HAVING SUM(jikwonpay) >= 15000
+Servers\mysession\QueryHistory\228<|||>1<|||>2026-02-13 10:23:50|test|0|-- 부서별 연봉 함<{{{><}}}>select busernum, SUM(jikwonpay) FROM jikwon group BY busernum
+Servers\mysession\QueryHistory\223<|||>1<|||>2026-02-13 10:36:23|test|0|-- 연습문제<{{{><}}}>-- 1) 직급별 급여의 평균 (NULL인 직급 제외)<{{{><}}}>SELECT jikwonjik, AVG(jikwonpay) AS 급여평균 FROM jikwon
+Servers\mysession\QueryHistory\231<|||>1<|||>2026-02-13 10:37:55|test|0|-- 그룹 함수 : group by 절 : 소개출력<{{{><}}}>-- select 그룹 칼럼명, 계산함수, ... from 테이블명 whrer 조건 group by 그룹칼럼명 having 조건<{{{><}}}>-- 그룹칼럼에 대해 order by 할 수 없다. 단, 출력 결과는 oreder by 가능<{{{><}}}><{{{><}}}>-- 성별 연봉 평균, 인원수를 출력<{{{><}}}>SELECT AVG(jikwongen), COUNT(jikwonpay)  from jikwon GROUP BY jikwongen
+Servers\mysession\QueryHistory\227<|||>1<|||>2026-02-13 10:38:25|test|0|-- 연습문제<{{{><}}}>-- 1) 직급별 급여의 평균 (NULL인 직급 제외)<{{{><}}}>SELECT jikwonjik, AVG(jikwonpay) AS 급여평균 FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\230<|||>1<|||>2026-02-13 10:38:57|test|0|-- 연습문제<{{{><}}}>-- 1) 직급별 급여의 평균 (NULL인 직급 제외)<{{{><}}}>SELECT jikwonjik, round(AVG(jikwonpay),0) AS 급여평균 FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\232<|||>1<|||>2026-02-13 10:44:57|test|0|SELECT busernum, SUM(jikwonpay) AS paytotal FROM jikwon WHERE jikwongen = '여' GROUP BY busernum HAVING paytotal >= 15000
+Servers\mysession\QueryHistory\224<|||>1<|||>2026-02-13 10:45:13|test|0|-- 2) 부장,과장에 대해 직급별 급여의 총합<{{{><}}}>SELECT jikwonjik, SUM(jikwonpay) AS 급여의총합 FROM jikwon WHERE jikwonjik IN ('부장', '과장') GROUP BY jikwonjik
+Servers\mysession\QueryHistory\233<|||>1<|||>2026-02-13 10:45:57|test|0|-- 2) 부장,과장에 대해 직급별 급여의 총합<{{{><}}}>SELECT jikwonjik, SUM(jikwonpay) AS 급여의총합 FROM jikwon WHERE jikwonjik IN ('부장', '과장') GROUP BY jikwonjik ORDER BY jikwonjik DESC
+Servers\mysession\QueryHistory\234<|||>1<|||>2026-02-13 10:49:52|test|0|-- 3) 2015년 이전에 입사한 자료 중 년도별 직원수 출력<{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, COUNT(jikwonname) AS 직원수 FROM jikwon WHERE DATE_FORMAT(jikwonibsail, '%Y') < 2015
+Servers\mysession\QueryHistory\235<|||>1<|||>2026-02-13 10:50:52|test|0|-- 3) 2015년 이전에 입사한 자료 중 년도별 직원수 출력<{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, COUNT(jikwonname) AS 직원수 FROM jikwon WHERE DATE_FORMAT(jikwonibsail, '%Y') < 2015 GROUP BY DATE_FORMAT(jikwonibsail, '%Y')<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\236<|||>1<|||>2026-02-13 10:55:33|test|0|-- 동점자 누적 처리가 됨 / dense_RANK() 는 동점자 누적 처리가 안됨<{{{><}}}>-- 기본적으로는 오름차순 처리함<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- nvl(value1, value2) : value1이 NULL 이면 value2를 취함<{{{><}}}>SELECT jikwonname, jikwonjik, nvl(jikwonjik, '임시직') AS 비고 FROM jikwon
+Servers\mysession\QueryHistory\177<|||>1<|||>2026-02-13 11:01:25|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급 FROM jikwon GROUP BY jikwongen
+Servers\mysession\QueryHistory\237<|||>1<|||>2026-02-13 11:01:52|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen FROM jikwon GROUP BY jikwongen
+Servers\mysession\QueryHistory\238<|||>1<|||>2026-02-13 11:02:04|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\239<|||>1<|||>2026-02-13 11:02:54|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen, COUNT(jikwongen) FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\240<|||>1<|||>2026-02-13 11:05:54|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen AS 성별, COUNT(jikwongen) AS 성별인원수 FROM jikwon GROUP BY jikwongen
+Servers\mysession\QueryHistory\241<|||>1<|||>2026-02-13 11:06:05|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen AS 성별, COUNT(jikwongen) AS 성별인원수 FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\242<|||>1<|||>2026-02-13 11:06:36|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen AS 성별, COUNT(jikwongen) AS 성별인원수, SUM(jikwonpay) AS 급여합  FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\229<|||>1<|||>2026-02-13 11:09:08|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, COUNT(jikwongen = '여') AS 여성인원수, COUNT(jikwongen = '남') AS 남성인원수, SUM(jikwonpay) AS 급여합  FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\244<|||>1<|||>2026-02-13 11:12:33|test|16|SELECT nvl(jikwonjik, '임시직') AS 직급, case when jikwongen = '여' then COUNT(jikwongen) END AS 여성인원수, case when jikwongen = '남' then COUNT(jikwongen) END AS 남성인원수, SUM(jikwonpay) AS 급여합  FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\245<|||>1<|||>2026-02-13 11:21:37|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, case when jikwongen = '여' then COUNT(jikwonname) END AS 여성인원수, case when jikwongen = '남' then COUNT(jikwonname) END AS 남성인원수, SUM(jikwonpay) AS 급여합  FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\243<|||>1<|||>2026-02-13 11:26:28|test|0|-- 5) 부서번호 10,20에 대한 부서별 급여 합 출력<{{{><}}}>SELECT busernum AS 부서번호, SUM(jikwonpay) FROM jikwon WHERE busernum IN(10, 20) GROUP BY busernum
+Servers\mysession\QueryHistory\247<|||>1<|||>2026-02-13 11:29:16|test|0|-- 6) 급여의 총합이 7000 이상인 직급 출력(NULL인 직급은 임시직으로 표현)<{{{><}}}>SELECT nvl(jikwonjik, '임시직'), SUM(jikwonpay) AS 급여합 FROM jikwon GROUP BY jikwonjik HAVING SUM(jikwonjik) >= 7000
+Servers\mysession\QueryHistory\248<|||>1<|||>2026-02-13 11:29:51|test|0|-- 6) 급여의 총합이 7000 이상인 직급 출력(NULL인 직급은 임시직으로 표현)<{{{><}}}>SELECT nvl(jikwonjik, '임시직') AS 직급, SUM(jikwonpay) AS 급여합 FROM jikwon GROUP BY jikwonjik HAVING SUM(jikwonpay) >= 7000
+Servers\mysession\QueryHistory\249<|||>1<|||>2026-02-13 11:32:14|test|0|-- 7) 직급별 인원수, 급여합계를 구하되 인원수가 3명 이상인 직급만 출력<{{{><}}}>SELECT nvl(jikwonjik, '임시직') AS 직급, COUNT(jikwonname) AS 인원수, SUM(jikwonpay) AS 급여합계 FROM jikwon GROUP BY jikwonjik HAVING COUNT(jikwonname) >= 3
+Servers\mysession\QueryHistory\250<|||>1<|||>2026-02-13 11:32:26|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, COUNT(jikwonname) AS 인원수, SUM(jikwonpay) AS 급여합계 FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\251<|||>1<|||>2026-02-13 11:34:03|test|0|SELECT COUNT(jikwongen = '여') FROM jikwon
+Servers\mysession\QueryHistory\252<|||>1<|||>2026-02-13 11:34:57|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, case when jikwongen = '여' then COUNT(jikwongen) END AS 여성인원수, case when jikwongen = '남' then COUNT(jikwongen) END AS 남성인원수, SUM(jikwonpay) AS 급여합  FROM jikwon GROUP BY jikwonjik;
+Servers\mysession\QueryHistory\253<|||>1<|||>2026-02-13 11:36:20|test|0|-- 연습문제<{{{><}}}>-- 1) 직급별 급여의 평균 (NULL인 직급 제외)<{{{><}}}>SELECT jikwonjik, round(AVG(jikwonpay),0) AS 급여평균 FROM jikwon WHERE jikwonjik IS NOT NULL GROUP BY jikwonjik
+Servers\mysession\QueryHistory\254<|||>1<|||>2026-02-13 11:46:12|test|0|SELECT nvl(jikwonjik, '임시직') AS 직급, jikwongen AS 성별, COUNT(*) AS 인원수, SUM(jikwonpay) AS 급여합 FROM jikwon GROUP BY jikwonjik, jikwongen;
+Servers\mysession\QueryHistory\256<|||>1<|||>2026-02-13 12:08:24|test|16|INSERT INTO buser(buserno, busername) VALUES(50, '기획실')
+Servers\mysession\QueryHistory\257<|||>1<|||>2026-02-13 12:08:29|test|0|-- ****JOIN**** : 하나 이상의 테이블에서 원하는 자료 추출<{{{><}}}>-- 공통 칼럼이 필요하다<{{{><}}}><{{{><}}}>SELECT * FROM buser
+Servers\mysession\QueryHistory\258<|||>1<|||>2026-02-13 12:10:01|test|30|DESC buser;<{{{><}}}>DESC jikwon;<{{{><}}}>DESC gogek;
+Servers\mysession\QueryHistory\259<|||>1<|||>2026-02-13 12:13:36|test|63|ALTER TABLE jikwon MODIFY busernum INT NULL
+Servers\mysession\QueryHistory\260<|||>1<|||>2026-02-13 12:13:38|test|0|UPDATE jikwon SET busernum = NULL WHERE jikwonno = 5
+Servers\mysession\QueryHistory\261<|||>1<|||>2026-02-13 12:13:41|test|0|-- 연습을 위해 세팅<{{{><}}}><{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\225<|||>1<|||>2026-02-13 12:15:09|test|0|SELECT jikwonname FROM jikwon
+Servers\mysession\QueryHistory\262<|||>1<|||>2026-02-13 12:16:25|test|15|-- select test.jikwon.jikwonname 으로 써야 정석<{{{><}}}>SELECT jikwonname FROM jikwon AS mytab
+Servers\mysession\QueryHistory\263<|||>1<|||>2026-02-13 12:19:39|test|0|-- 테이블 이름으로 구분 <{{{><}}}><{{{><}}}>-- cross join : 한 쪽 테이블의 모든 행과 다른 쪽 테이블의 모든 행을 연결하는 기능<{{{><}}}>SELECT jikwonname, busername FROM jikwon, buser
+Servers\mysession\QueryHistory\264<|||>1<|||>2026-02-13 12:38:22|test|0|-- EQUI join : 조인 조건식에 '=' 을 사용. 두 테이블은 '같다' 조건으로 join<{{{><}}}>-- 대부분의 pk, fk 조인은 EQUI join이다.<{{{><}}}>SELECT jikwonname, busername FROM jikwon, buser WHERE jikwon.busernum = buser.buserno
+Servers\mysession\QueryHistory\265<|||>1<|||>2026-02-13 12:40:50|test|16|-- null은 제외 됨<{{{><}}}><{{{><}}}>-- non-EQUI join : 조인 조건식에 '=' 이외의 관계연산자를 사용<{{{><}}}>CREATE TABLE paygrade(grade INT PRIMARY KEY, lpay INT, hpay INT)
+Servers\mysession\QueryHistory\266<|||>1<|||>2026-02-13 12:46:14|test|0|SELECT jiktab.jikwonname, jiktab.jikwonpay, paytab.grade FROM jikwon AS jiktab, paygrade AS paytab WHERE jiktab.jikwonpay >= paytab.lpay AND jiktab.jikwonpay <= paytab.hpay;
+Servers\mysession\QueryHistory\267<|||>1<|||>2026-02-13 12:49:31|test|0|-- non- EQUI join 자주 안쓰임<{{{><}}}><{{{><}}}>-- inner join : 두테이블을 조인할 때, 두 테이블의 모두 지정한 열의 데이터가 있는 경우만 추출<{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon, buser WHERE busernum = buserno
+Servers\mysession\QueryHistory\268<|||>1<|||>2026-02-13 12:55:26|test|16|--  whrer 조건에 join 조건 + record 제한 조건 --> 가독성 나쁨<{{{><}}}><{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon INNER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\269<|||>1<|||>2026-02-13 12:56:35|test|0|-- 결과는 똑같음<{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon INNER JOIN buser ON busernum = buserno WHERE jikwongen = '남'<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}> <{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\270<|||>1<|||>2026-02-13 13:02:47|test|0|-- 오라클..<{{{><}}}><{{{><}}}>-- left outer join<{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon LEFT OUTER JOIN buser ON busername = buserno
+Servers\mysession\QueryHistory\271<|||>1<|||>2026-02-13 13:03:11|test|0|-- 오라클..<{{{><}}}><{{{><}}}>-- left outer join<{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\272<|||>1<|||>2026-02-13 13:04:10|test|0|-- 왼쪽은 다 나옴<{{{><}}}><{{{><}}}>-- right outer join<{{{><}}}>SELECT jikwonno, jikwonname, busername FROM jikwon RIGHT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\273<|||>1<|||>2026-02-13 13:08:36|test|15|SELECT jikwonno, jikwonname, busername FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno UNION SELECT jikwonno, jikwonname, busername FROM jikwon RIGHT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\274<|||>1<|||>2026-02-13 13:13:11|test|0|-- mariaDB는 full outer join을 union 을 이용해서 사용해야 한다 left + Right<{{{><}}}><{{{><}}}>SELECT SUM(jikwonpay) AS hap, COUNT(*) AS COUNT FROM jikwon INNER JOIN buser ON busernum = buserno WHERE jikwongen = '남'
+Servers\mysession\QueryHistory\276<|||>1<|||>2026-02-13 14:10:13|test|0|-- 문2) 직원별 고객 확보 수  -- GROUP BY 사용<{{{><}}}>SELECT jikwonname AS 직원명, COUNT(gogekname) AS 고객확보수 FROM jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\278<|||>1<|||>2026-02-13 14:29:55|test|0|-- 문3) 고객이 담당직원의 자료를 보고 싶을 때 즉, 고객명을 입력하면,  담당직원 자료 출력 <{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급 FROM jikwon INNER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\281<|||>1<|||>2026-02-13 14:30:34|test|0|-- 문3) 고객이 담당직원의 자료를 보고 싶을 때 즉, 고객명을 입력하면,  담당직원 자료 출력 <{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급 FROM jikwon INNER JOIN gogek ON jikwonno = gogekdamsano WHERE gogekname = '강나루'
+Servers\mysession\QueryHistory\277<|||>1<|||>2026-02-13 14:30:47|test|0|SELECT jikwonno AS 사번, jikwonname AS 직원명, jikwonjik AS 사원, gogekname AS 고객명, gogektel AS 고객전화, case when gogekjumin LIKE '_______1%' then '남' ELSE '여' END AS 고객성별 from jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\282<|||>1<|||>2026-02-13 14:37:20|test|0|-- 문4) 직원명을 입력하면 관리고객 자료 출력<{{{><}}}>SELECT gogekname AS 고객명, gogektel AS 고객전화, gogekjumin AS 주민번호, 2026- (1900 + SUBSTR(gogekjumin, 2)) AS 나이 FROM gogek INNER JOIN jikwon ON gogekdamsano = jikwonno
+Servers\mysession\QueryHistory\283<|||>1<|||>2026-02-13 14:37:58|test|0|SELECT SUBSTR(gogekjumin, 2) FROM gogek
+Servers\mysession\QueryHistory\275<|||>1<|||>2026-02-13 14:38:32|test|0|SELECT SUBSTR(gogekjumin, 2, 2) FROM gogek
+Servers\mysession\QueryHistory\285<|||>1<|||>2026-02-13 14:38:40|test|0|SELECT SUBSTR(gogekjumin, 0, 2) FROM gogek
+Servers\mysession\QueryHistory\286<|||>1<|||>2026-02-13 14:38:47|test|0|SELECT SUBSTR(gogekjumin, 1, 2) FROM gogek
+Servers\mysession\QueryHistory\284<|||>1<|||>2026-02-13 14:39:00|test|0|-- 문4) 직원명을 입력하면 관리고객 자료 출력<{{{><}}}>SELECT gogekname AS 고객명, gogektel AS 고객전화, gogekjumin AS 주민번호, 2026- (1900 + SUBSTR(gogekjumin, 1, 2)) AS 나이 FROM gogek INNER JOIN jikwon ON gogekdamsano = jikwonno
+Servers\mysession\QueryHistory\279<|||>1<|||>2026-02-13 15:28:15|test|0|-- buser TABLE과는 join 불가(공통 칼럼X)   중간에 jikwon을 걸어두면 가능<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습문제<{{{><}}}><{{{><}}}>-- 문1) 직급이 '사원' 인 직원이 관리하는 고객자료 출력<{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\288<|||>1<|||>2026-02-13 15:36:16|test|0|SELECT jikwonno AS 사번, jikwonname AS 직원명, jikwonjik AS 사원, gogekname AS 고객명, gogektel AS 고객전화, case when gogekjumin LIKE '_______1%' then '남' ELSE '여' END AS 고객성별 from jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE jikwonjik = '사원'
+Servers\mysession\QueryHistory\290<|||>1<|||>2026-02-13 15:37:03|test|0|SELECT jikwonno AS 사번, jikwonname AS 직원명, jikwonjik AS 사원, gogekname AS 고객명, gogektel AS 고객전화, case when gogekjumin LIKE '_______1%' then '남' ELSE '여' END AS 고객성별 from jikwon inner JOIN gogek ON jikwonno = gogekdamsano WHERE jikwonjik = '사원'
+Servers\mysession\QueryHistory\291<|||>1<|||>2026-02-13 15:39:20|test|0|-- 문2) 직원별 고객 확보 수  -- GROUP BY 사용<{{{><}}}>SELECT jikwonname AS 직원명, COUNT(gogekname) AS 고객확보수 FROM jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano GROUP BY jikwonname
+Servers\mysession\QueryHistory\280<|||>1<|||>2026-02-13 15:40:02|test|0|-- 문2) 직원별 고객 확보 수  -- GROUP BY 사용<{{{><}}}>SELECT jikwonname AS 직원명, COUNT(gogekname) AS 고객확보수 FROM jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano GROUP BY jikwonno
+Servers\mysession\QueryHistory\292<|||>1<|||>2026-02-13 15:43:09|test|0|-- 동명이인이 있는경우 jikwonname으로 그룹하면 문제 발생 <{{{><}}}><{{{><}}}>-- 문3) 고객이 담당직원의 자료를 보고 싶을 때 즉, 고객명을 입력하면,  담당직원 자료 출력 <{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급 FROM jikwon INNER JOIN gogek ON jikwonno = gogekdamsano WHERE gogekname = '강나루'
+Servers\mysession\QueryHistory\293<|||>1<|||>2026-02-13 15:46:27|test|0|-- 문4) 직원명을 입력하면 관리고객 자료 출력<{{{><}}}>SELECT gogekname AS 고객명, gogektel AS 고객전화, gogekjumin AS 주민번호, 2026- (1900 + SUBSTR(gogekjumin, 1, 2)) AS 나이 FROM gogek INNER JOIN jikwon ON gogekdamsano = jikwonno WHERE jikwonname = '이순신'
+Servers\mysession\QueryHistory\287<|||>1<|||>2026-02-13 15:53:40|test|0|-- 세 개의 테이블 조인 : 두개를 먼저 조인 후 그 결과와 나머지 테이블로 조인<{{{><}}}>SELECT jikwonname, busername, gogekname FROM jikwon, buser, gogek WHERE busernum = buserno AND jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\294<|||>1<|||>2026-02-13 15:54:57|test|0|-- inner join(null 값 제외)<{{{><}}}><{{{><}}}>SELECT jikwonname, busername, gogekname FROM jikwon INNER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\295<|||>1<|||>2026-02-13 16:07:30|test|0|-- 표준 방식<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습문제<{{{><}}}>-- 문1) 총무부에서 관리하는 고객수 출력 (고객 30살 이상만 작업에 참여)<{{{><}}}>SELECT busername AS 부서, COUNT(gogekname) AS 고객수 FROM jikwon INNER JOIN buser ON busernum = busername INNER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = 10
+Servers\mysession\QueryHistory\296<|||>1<|||>2026-02-13 16:10:58|test|0|-- 표준 방식<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습문제<{{{><}}}>-- 문1) 총무부에서 관리하는 고객수 출력 (고객 30살 이상만 작업에 참여)<{{{><}}}>SELECT busername AS 부서, COUNT(gogekname) AS 고객수 FROM jikwon INNER JOIN buser ON busername = '총무부' INNER JOIN gogek ON jikwonno = gogekdamsano WHERE  (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) >= 30
+Servers\mysession\QueryHistory\246<|||>1<|||>2026-02-13 16:18:19|test|0|-- 문2) 부서명별 고객 인원수 (부서가 없으면 "무소속")<{{{><}}}>SELECT nvl(busername, '무소속') AS 부서, COUNT(gogekname) AS 고객인원수 FROM jikwon RIGHT OUTER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\300<|||>1<|||>2026-02-13 16:19:35|test|15|-- 표준 방식<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습문제<{{{><}}}>-- 문1) 총무부에서 관리하는 고객수 출력 (고객 30살 이상만 작업에 참여)<{{{><}}}>SELECT busername AS 부서, COUNT(gogekname) AS 고객수 FROM jikwon INNER JOIN buser ON busername = '총무부' INNER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = 10 AND (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) >= 30
+Servers\mysession\QueryHistory\297<|||>1<|||>2026-02-13 16:19:37|test|0|-- 문2) 부서명별 고객 인원수 (부서가 없으면 "무소속")<{{{><}}}>SELECT nvl(busername, '무소속') AS 부서, COUNT(gogekname) AS 고객인원수 FROM jikwon RIGHT OUTER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano GROUP BY busername
+Servers\mysession\QueryHistory\299<|||>1<|||>2026-02-13 16:19:59|test|15|-- 문4) 직원명을 입력하면 관리고객 자료 출력<{{{><}}}>SELECT gogekname AS 고객명, gogektel AS 고객전화, gogekjumin AS 주민번호, 2026- (1900 + SUBSTR(gogekjumin, 1, 2)) AS 나이 FROM gogek INNER JOIN jikwon ON gogekdamsano = jikwonno WHERE jikwonname = '이순라'
+Servers\mysession\QueryHistory\302<|||>1<|||>2026-02-13 16:25:20|test|0|-- 문3) 고객이 담당직원의 자료를 보고 싶을 때 즉, 고객명을 입력하면  담당직원 자료 출력<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명, busertel AS 부서전화, jikwongen AS 성별 FROM jikwon INNER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano WHERE gogekname = '강나루'
+Servers\mysession\QueryHistory\303<|||>1<|||>2026-02-13 16:25:33|test|0|-- 문3) 고객이 담당직원의 자료를 보고 싶을 때 즉, 고객명을 입력하면  담당직원 자료 출력<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명, busertel AS 부서전화, jikwongen AS 성별 FROM jikwon INNER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano
+Servers\mysession\QueryHistory\304<|||>1<|||>2026-02-13 16:33:09|test|0|-- 문4) 부서와 직원명을 입력하면 관리고객 자료 출력<{{{><}}}>SELECT gogekname AS 고객명, gogektel AS 고객전화, case when gogekjumin LIKE '_______1%' then '남' ELSE '여' END AS 고객성별 FROM jikwon INNER JOIN gogek ON jikwonno = gogekdamsano INNER JOIN buser ON busernum = buserno WHERE busername = '영업부' AND jikwonname = '이순신'
+Servers\mysession\QueryHistory\305<|||>1<|||>2026-02-13 16:37:42|test|0|-- 문2) 부서명별 고객 인원수 (부서가 없으면 "무소속")<{{{><}}}>SELECT nvl(busername, '무소속') AS 부서, COUNT(gogekname) AS 고객인원수 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno INNER JOIN gogek ON jikwonno = gogekdamsano GROUP BY busername
+Servers\mysession\QueryHistory\301<|||>1<|||>2026-02-13 16:45:40|test|16|-- union : 구조가 일치하는 두 개 이상의 테이블 자료 합쳐 출력. 원래의 테이블 계속 유지<{{{><}}}>CREATE TABLE pum1(bun INT, pummok VARCHAR(20))
+Servers\mysession\QueryHistory\306<|||>1<|||>2026-02-13 16:46:10|test|0|INSERT INTO pum1 VALUES(1, '귤')
+Servers\mysession\QueryHistory\307<|||>1<|||>2026-02-13 16:46:20|test|0|INSERT INTO pum1 VALUES(2, '한라봉');<{{{><}}}>INSERT INTO pum1 VALUES(3, '바나나');
+Servers\mysession\QueryHistory\309<|||>1<|||>2026-02-13 16:46:23|test|0|SELECT * FROM pum1
+Servers\mysession\QueryHistory\308<|||>1<|||>2026-02-13 16:51:57|test|0|SELECT bun AS 번호, pummok AS 품명 FROM pum1 UNION SELECT mum, sangpum FROM pum2
+Servers\mysession\QueryHistory\310<|||>1<|||>2026-02-13 16:58:58|test|0|-- subquery : query 내에 query가 있는 형태 (주로 안쪽 질의 결과를 바깥쪽 질의에서 참조)<{{{><}}}>-- 다른 테이블의 결과를 조건으로 쓰고 싶을 때 <{{{><}}}>-- 계산된 값을 이용하고 싶을 때<{{{><}}}>-- 복잡한 조건을 단계적으로 나눠 처리하고 싶을 때.....<{{{><}}}><{{{><}}}>-- where 안에 있는 subquery<{{{><}}}>-- 이미라 직원과 직급이 같은 직원 출력<{{{><}}}>SELECT jikwonjik FROM jikwon WHERE jikwonname = '이미라'
+Servers\mysession\QueryHistory\311<|||>1<|||>2026-02-13 16:59:45|test|0|-- 대리<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '대리'
+Servers\mysession\QueryHistory\312<|||>1<|||>2026-02-13 17:00:46|test|0|-- select 문 2번 > 서버에 2번 접속<{{{><}}}><{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = (SELECT jikwonjik FROM jikwon WHERE jikwonname = '이미라')
+Servers\mysession\QueryHistory\313<|||>1<|||>2026-02-13 17:05:15|test|31|-- 한번에 처리<{{{><}}}><{{{><}}}>-- 직급이 대리 중에서 가장 먼저 입사한 직원 출력<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail = (SELECT MIN(jikwonibsail) FROM jikwon WHERE jikwonjik = '대리')
+Servers\mysession\QueryHistory\314<|||>1<|||>2026-02-13 17:08:08|test|0|-- 한번에 처리<{{{><}}}><{{{><}}}>-- 직급이 대리 중에서 가장 먼저 입사한 직원 출력<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '대리' AND jikwonibsail = (SELECT MIN(jikwonibsail) FROM jikwon WHERE jikwonjik = '대리')
+Servers\mysession\QueryHistory\315<|||>1<|||>2026-02-13 17:10:45|test|0|-- 맞는 것같아 보이지만 입사연월을 반환하기 떄문에 대리라는 조건이 들어가지 않음<{{{><}}}><{{{><}}}><{{{><}}}>-- 인천에 근무하는 직원 출력<{{{><}}}>SELECT * FROM jikwon WHERE busernum = (SELECT buserno FROM buser WHERE buserloc = '인천')
+Servers\mysession\QueryHistory\316<|||>1<|||>2026-02-13 17:13:25|test|0|-- 다른 테이블에서 부터도 얻을 수 있다 /  꼭 join만있는건 아님<{{{><}}}><{{{><}}}>-- 인천 이외에 근무하는 직원 출력<{{{><}}}>SELECT * FROM jikwon WHERE busernum IN (SELECT buserno FROM buser WHERE NOT buserloc = '인천')
+Servers\mysession\QueryHistory\317<|||>1<|||>2026-02-13 17:16:14|test|0|-- 서브쿼리에서 몇개의 값이 나오는지 주의해서 작성<{{{><}}}>SELECT * FROM jikwon WHERE busernum <> (SELECT buserno FROM buser WHERE buserloc = '인천')
+Servers\mysession\QueryHistory\318<|||>1<|||>2026-02-13 17:19:16|test|0|-- 서브쿼리의 결과를 부정해서 받는 방법(같은 결과)<{{{><}}}><{{{><}}}><{{{><}}}>-- 고객 중 차일호와 나이가 같은 자료 출력<{{{><}}}>SELECT * FROM gogek WHERE SUBSTR(gogekjumin, 1, 2) = (SELECT SUBSTR(gogekjumin, 1, 2) FROM gogek WHERE gogekname = '차일호')
+Servers\mysession\QueryHistory\320<|||>1<|||>2026-02-13 17:30:46|test|0|-- 연습문제<{{{><}}}>-- 문1) 2010년 이후에 입사한 남자 중 급여를 가장 많이 받는 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwongen = '남' AND jikwonpay = (SELECT MAX(jikwonpay) FROM jikwon WHERE SUBSTR(jikwonibsail, 1,4) >= 2010)
+Servers\mysession\QueryHistory\321<|||>1<|||>2026-02-13 17:37:22|test|0|SELECT jikwonpay FROM jikwon
+Servers\mysession\QueryHistory\322<|||>1<|||>2026-02-13 17:38:35|test|0|SELECT AVG(jikwonpay) FROM jikwon
+Servers\mysession\QueryHistory\323<|||>1<|||>2026-02-13 17:39:24|test|0|SELECT jikwonpay FROM jikwon WHERE jikwonpay > 5000
+Servers\mysession\QueryHistory\328<|||>1<|||>2026-02-13 18:02:46|test|0|SELECT MAX(jikwonpay), MIN(jikwonpay) FROM jikwon WHERE jikwonjik = '과장'
+Servers\mysession\QueryHistory\329<|||>1<|||>2026-02-13 18:07:03|test|0|-- 문6) 과장 중에서 최대급여, 최소급여를 받는 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '과장' AND jikwonpay IN (SELECT MAX(jikwonpay) FROM jikwon WHERE jikwonjik = '과장')
+Servers\mysession\QueryHistory\330<|||>1<|||>2026-02-13 18:07:13|test|0|-- 문6) 과장 중에서 최대급여, 최소급여를 받는 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '과장' AND jikwonpay IN (SELECT min(jikwonpay) FROM jikwon WHERE jikwonjik = '과장')
+Servers\mysession\QueryHistory\333<|||>1<|||>2026-02-13 18:14:13|test|0|-- 문8) 30번 부서의 평균급여보다 급여가 많은 '대리' 는 몇명인가?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '대리' AND jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\319<|||>1<|||>2026-02-19 16:26:42|test|16|-- 문9) 고객을 확보하고 있는 직원들의 이름, 직급, 부서명을 입사일 별로 출력하라.<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE jikwonno IN (SELECT gogekdamsano FROM gogek) GROUP BY jikwonibsail
+Servers\mysession\QueryHistory\337<|||>1<|||>2026-02-19 16:31:00|test|0|SELECT * FROM buser
+Servers\mysession\QueryHistory\289<|||>1<|||>2026-02-19 16:45:48|test|0|-- 문10) 이순신과 같은 부서에 근무하는 직원과 해당 직원이 관리하는 고객 출력<{{{><}}}>SELECT jikwonname AS 직원명, busername AS 부서명, busertel AS 부서전화, jikwonjik AS 직급, gogekname AS 고객명, gogektel AS 고객전화, case when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 30 then '청년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 50 then '중년' ELSE '노년' END AS '고객구분' FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = (SELECT busernum FROM jikwon WHERE jikwonname = '이순신')
+Servers\mysession\QueryHistory\338<|||>1<|||>2026-02-19 16:47:36|test|0|-- 문10) 이순신과 같은 부서에 근무하는 직원과 해당 직원이 관리하는 고객 출력<{{{><}}}>SELECT jikwonname AS 직원명, busername AS 부서명, busertel AS 부서전화, jikwonjik AS 직급, gogekname AS 고객명, gogektel AS 고객전화, case when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 30 then '청년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 50 then '중년' ELSE '노년' END AS '고객구분' FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = (SELECT busernum FROM jikwon WHERE jikwonname = '이순신') ORDER BY (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) DESC
+Servers\mysession\QueryHistory\339<|||>1<|||>2026-02-19 16:49:52|test|16|-- 문10) 이순신과 같은 부서에 근무하는 직원과 해당 직원이 관리하는 고객 출력<{{{><}}}>SELECT jikwonname AS 직원명, busername AS 부서명, busertel AS 부서전화, jikwonjik AS 직급, gogekname AS 고객명, gogektel AS 고객전화, case when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 30 then '청년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 50 then '중년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) > 50 then '노년' ELSE '없음' END AS '고객구분' FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = (SELECT busernum FROM jikwon WHERE jikwonname = '이순신') ORDER BY (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) DESC
+Servers\mysession\QueryHistory\255<|||>1<|||>2026-02-19 16:55:18|test|0|-- 연습문제<{{{><}}}>-- 문1) 2010년 이후에 입사한 남자 중 급여를 가장 많이 받는 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwongen = '남' AND jikwonpay = (SELECT MAX(jikwonpay) FROM jikwon WHERE jikwongen = '남' AND SUBSTR(jikwonibsail, 1,4) >= 2010)
+Servers\mysession\QueryHistory\298<|||>1<|||>2026-02-19 16:57:14|test|0|-- 문2) 평균급여보다 급여를 많이 받는 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon)
+Servers\mysession\QueryHistory\325<|||>1<|||>2026-02-19 16:58:41|test|0|-- 문3) '이미라' 직원의 입사 이후에 입사한 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail > (SELECT jikwonibsail FROM jikwon WHERE jikwonname = '이미라')
+Servers\mysession\QueryHistory\324<|||>1<|||>2026-02-19 16:59:32|test|31|-- 문3) '이미라' 직원의 입사 이후에 입사한 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail > (SELECT jikwonibsail FROM jikwon WHERE jikwonname = '이미라') ORDER BY jikwonibsail
+Servers\mysession\QueryHistory\342<|||>1<|||>2026-02-19 16:59:52|test|0|-- 문4) 2010 ~ 2015년 사이에 입사한 총무부(10),영업부(20),전산부(30) 직원 중 급여가 가장 적은 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay = (SELECT MIN(jikwonpay) FROM jikwon WHERE busernum IN (10, 20, 30))
+Servers\mysession\QueryHistory\327<|||>1<|||>2026-02-19 17:01:08|test|0|SELECT * FROM gogek
+Servers\mysession\QueryHistory\341<|||>1<|||>2026-02-19 17:01:42|test|0|-- 문5) 한송이, 이순신과 직급이 같은 사람은 누구인가?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik IN (SELECT jikwonjik FROM jikwon WHERE jikwonname = '한송이' OR jikwonname = '이순신') GROUP BY jikwonname
+Servers\mysession\QueryHistory\344<|||>1<|||>2026-02-19 17:02:44|test|31|-- 부서별 연봉합 : 여성만<{{{><}}}>SELECT busernum, SUM(jikwonpay) FROM jikwon WHERE jikwongen = '여' GROUP BY busernum
+Servers\mysession\QueryHistory\133<|||>1<|||>2026-02-19 17:03:19|test|0|-- 문5) 한송이, 이순신과 직급이 같은 사람은 누구인가?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik IN (SELECT jikwonjik FROM jikwon WHERE jikwonname = '한송이' OR jikwonname = '이순신')
+Servers\mysession\QueryHistory\326<|||>1<|||>2026-02-19 17:06:30|test|0|-- 문5) 한송이, 이순신과 직급이 같은 사람은 누구인가?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik IN (SELECT jikwonjik FROM jikwon WHERE jikwonname = '한송이' OR jikwonname = '이순신') GROUP BY jikwonjik
+Servers\mysession\QueryHistory\331<|||>1<|||>2026-02-19 17:11:04|test|0|-- 문7) 10번 부서의 최소급여보다 많은 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay > (SELECT MIN(jikwonpay) FROM jikwon WHERE busernum = 10)
+Servers\mysession\QueryHistory\334<|||>1<|||>2026-02-19 17:12:05|test|0|-- 문9) 고객을 확보하고 있는 직원들의 이름, 직급, 부서명을 입사일 별로 출력하라.<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명, jikwonibsail AS 입사일  FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE jikwonno IN (SELECT gogekdamsano FROM gogek) GROUP BY jikwonibsail
+Servers\mysession\QueryHistory\346<|||>1<|||>2026-02-19 17:13:37|test|0|-- 문10) 이순신과 같은 부서에 근무하는 직원과 해당 직원이 관리하는 고객 출력<{{{><}}}>SELECT jikwonname AS 직원명, busername AS 부서명, busertel AS 부서전화, jikwonjik AS 직급, gogekname AS 고객명, gogektel AS 고객전화, case when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 40 then '청년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) <= 50 then '중년' when (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) > 50 then '노년' ELSE '없음' END AS '고객구분' FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE busernum = (SELECT busernum FROM jikwon WHERE jikwonname = '이순신') ORDER BY (2026- (1900 + SUBSTR(gogekjumin, 1, 2))) DESC
+Servers\mysession\QueryHistory\340<|||>1<|||>2026-02-23 09:39:48|test|0|-- subquery 연습문제<{{{><}}}>-- 문1) 2010년 이후에 입사한 남자 중 급여를 가장 많이 받는 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwongen = '남' AND jikwonibsail >= '2010-1-1' AND jikwonpay = (SELECT MAX(jikwonpay) FROM jikwon WHERE jikwongen = '남' AND SUBSTR(jikwonibsail, 1,4) >= 2010)
+Servers\mysession\QueryHistory\347<|||>1<|||>2026-02-23 09:40:48|test|15|-- 2010 년 이후 입사한 정보 빠지지 않게 주의!!<{{{><}}}><{{{><}}}>-- 문2) 평균급여보다 급여를 많이 받는 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon)
+Servers\mysession\QueryHistory\348<|||>1<|||>2026-02-23 09:42:06|test|0|-- 문3) '이미라' 직원의 입사 이후에 입사한 직원은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail >= (SELECT jikwonibsail FROM jikwon WHERE jikwonname = '이미라') ORDER BY jikwonibsail
+Servers\mysession\QueryHistory\349<|||>1<|||>2026-02-23 09:49:21|test|16|-- 문4) 2010 ~ 2015년 사이에 입사한 총무부(10),영업부(20),전산부(30) 직원 중 급여가 가장 적은 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonibsail BETWEEN '2010-1-1' AND '2015-12-31' AND busernum IN (10, 20, 30) AND jikwonpay = (SELECT MIN(jikwonpay) FROM jikwon WHERE jikwonibsail BETWEEN '2010-1-1' AND '2015-12-31' AND busernum IN (10, 20, 30)) AND jikwonjik IS NOT NULL
+Servers\mysession\QueryHistory\350<|||>1<|||>2026-02-23 09:51:16|test|16|-- 문5) 한송이, 이순신과 직급이 같은 사람은 누구인가?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik IN (SELECT jikwonjik FROM jikwon WHERE jikwonname = '한송이' OR jikwonname = '이순신') ORDER BY jikwonjik
+Servers\mysession\QueryHistory\343<|||>1<|||>2026-02-23 09:54:08|test|0|-- 문6) 과장 중에서 최대급여, 최소급여를 받는 사람은?<{{{><}}}>SELECT * FROM jikwon WHERE jikwonjik = '과장' AND jikwonpay IN ((SELECT MAX(jikwonpay) FROM jikwon WHERE jikwonjik = '과장'), (SELECT min(jikwonpay) FROM jikwon WHERE jikwonjik = '과장'))
+Servers\mysession\QueryHistory\345<|||>1<|||>2026-02-23 09:56:34|test|0|-- 문8) 30번 부서의 평균급여보다 급여가 많은 '대리' 는 몇명인가?<{{{><}}}>SELECT COUNT(jikwonno) FROM jikwon WHERE jikwonjik = '대리' AND jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\332<|||>1<|||>2026-02-23 09:56:44|test|0|-- 문8) 30번 부서의 평균급여보다 급여가 많은 '대리' 는 몇명인가?<{{{><}}}>SELECT COUNT(*) FROM jikwon WHERE jikwonjik = '대리' AND jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\351<|||>1<|||>2026-02-23 09:58:00|test|15|-- 문9) 고객을 확보하고 있는 직원들의 이름, 직급, 부서명을 입사일 별로 출력하라.<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명, jikwonibsail AS 입사일  FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE jikwonno IN (SELECT gogekdamsano FROM gogek) ORDER BY jikwonibsail
+Servers\mysession\QueryHistory\336<|||>1<|||>2026-02-23 09:58:48|test|16|-- 문9) 고객을 확보하고 있는 직원들의 이름, 직급, 부서명을 입사일 별로 출력하라.<{{{><}}}>SELECT jikwonname AS 직원명, jikwonjik AS 직급, busername AS 부서명, jikwonibsail AS 입사일  FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE jikwonno IN (SELECT DISTINCT gogekdamsano FROM gogek) ORDER BY jikwonibsail
+Servers\mysession\QueryHistory\352<|||>1<|||>2026-02-23 10:07:29|test|0|-- outer join 이 아니라 inner join이 더 맞음<{{{><}}}>-- 2026 상수 값 보다는 now, sysdate등등을 사용하는 것이 더 좋음<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 쿼리문은 동일한 결과를 여러 방법으로 수행 가능<{{{><}}}>-- 예) 총무부에 근무하는 직원들이 관리하는 고객 출력<{{{><}}}>-- subquery를 이용해서<{{{><}}}>SELECT gogekno, gogekname, gogektel FROM gogek WHERE gogekdamsano IN (SELECT jikwonno FROM jikwon WHERE busernum = (SELECT buserno FROM buser WHERE busername = '총무부'))
+Servers\mysession\QueryHistory\353<|||>1<|||>2026-02-23 10:10:35|test|0|-- join을 이용해서<{{{><}}}>SELECT gogekno, gogekname, gogektel FROM gogek INNER JOIN jikwon ON jikwon.jikwonno = gogek.gogekdamsano INNER JOIN buser ON jikwon.busernum = buser.buserno WHERE busername = '총무부'
+Servers\mysession\QueryHistory\354<|||>1<|||>2026-02-23 10:15:49|test|0|-- any, all 연산자 : null 인 자료는 제외하고 작업한다.<{{{><}}}><{{{><}}}>-- < any : subquery의 반환값 중 최대값 보다 작은 ~     <= 도 가능<{{{><}}}>-- > any : subquery의 반환값 중 최소값 보다 큰 ~<{{{><}}}>-- < all : subquery의 반환값 중 최소값 보다 작은 ~<{{{><}}}>-- > any : subquery의 반환값 중 최대값 보다 큰 ~<{{{><}}}><{{{><}}}>-- '대리'의 최대값보다 적은 연봉을 받는 직원은?<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonpay < ANY (SELECT jikwonpay FROM jikwon WHERE jikwonjik = '대리')
+Servers\mysession\QueryHistory\355<|||>1<|||>2026-02-23 10:17:54|test|0|-- 30번 부서의 최고 연봉자 보다 연봉을 많이 받는 직원은?<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonpay > ALL (SELECT jikwonpay FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\356<|||>1<|||>2026-02-23 10:19:02|test|0|-- 30번 부서의 최저 연봉자 보다 연봉을 많이 받는 직원은?<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonpay > ANY (SELECT jikwonpay FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\357<|||>1<|||>2026-02-23 10:19:16|test|0|-- 30번 부서의 최저 연봉자 보다 연봉을 많이 받는 직원은?<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonpay > ANY (SELECT jikwonpay FROM jikwon WHERE busernum = 30) ORDER BY jikwonpay
+Servers\mysession\QueryHistory\358<|||>1<|||>2026-02-23 10:23:11|test|16|select YEAR(CURDATE()) FROM DUAL
+Servers\mysession\QueryHistory\359<|||>1<|||>2026-02-23 10:23:31|test|0|select month(CURDATE()) FROM DUAL
+Servers\mysession\QueryHistory\360<|||>1<|||>2026-02-23 10:23:38|test|47|select month(sysdate()) FROM DUAL
+Servers\mysession\QueryHistory\361<|||>1<|||>2026-02-23 10:37:32|test|0|-- exists 연산자<{{{><}}}><{{{><}}}>-- 직원이 있는 부서 출력<{{{><}}}>SELECT busername, buserloc FROM buser bu WHERE EXISTS (SELECT 'imsi' FROM jikwon WHERE jikwon.busernum = bu.buserno)
+Servers\mysession\QueryHistory\362<|||>1<|||>2026-02-23 10:39:11|test|16|-- true 반환<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 직원이 없는 부서 출력<{{{><}}}>SELECT busername, buserloc FROM buser bu WHERE NOT EXISTS (SELECT 'imsi' FROM jikwon WHERE jikwon.busernum = bu.buserno)
+Servers\mysession\QueryHistory\363<|||>1<|||>2026-02-23 10:43:29|test|15|-- false 반환<{{{><}}}><{{{><}}}><{{{><}}}>-- from 절에 사용하는 subquery (흔하진 않음)<{{{><}}}>-- 전체 평균 연봉과 최대 연봉 사이의 연봉을 받는 직원 출력<{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon a, (SELECT AVG(jikwonpay) avgs, MAX(jikwonpay) maxs FROM jikwon) b WHERE a.jikwonpay BETWEEN b.avgs AND b.maxs
+Servers\mysession\QueryHistory\364<|||>1<|||>2026-02-23 10:47:49|test|16|-- group by 의 having 절에 포함된 subquery <{{{><}}}>-- 부서별 평균연봉 중 30번 부서의 평균 연봉보다 큰 자료(부서) 출력<{{{><}}}>SELECT busernum, AVG(jikwonpay) FROM jikwon GROUP BY busernum HAVING AVG(jikwonpay) > (SELECT AVG(jikwonpay) FROM jikwon WHERE busernum = 30)
+Servers\mysession\QueryHistory\365<|||>1<|||>2026-02-23 10:51:20|test|0|-- 상관 subquery : outer query의 각 행을 inner query에서 참조하여 수행하는 subquery<{{{><}}}>-- 안쪽 질의에서 바깥쪽 질의를 참조하고, 다시 안쪽의 결과를 바깥쪽 질의에서 참조하는 형태<{{{><}}}>-- 각 부서의 최대 연봉자는?<{{{><}}}>SELECT *FROM jikwon a WHERE a.jikwonpay = (SELECT MAX(b.jikwonpay) FROM jikwon b WHERE a.busernum = b.busernum)
+Servers\mysession\QueryHistory\366<|||>1<|||>2026-02-23 10:55:13|test|0|-- 연봉 순위 3위 이내의 직원 출력(descending sort)<{{{><}}}>SELECT a.jikwonno, a.jikwonname, a.jikwonpay FROM jikwon a WHERE 3 > (SELECT COUNT(*) FROM jikwon b WHERE b.jikwonpay > a.jikwonpay) AND jikwonpay IS NOT NULL ORDER BY jikwonpay DESC
+Servers\mysession\QueryHistory\367<|||>1<|||>2026-02-23 10:57:50|test|31|-- subquery 를 이용한 table 생성 및 insert 수행<{{{><}}}>CREATE TABLE jiktab1 AS SELECT * FROM jikwon
+Servers\mysession\QueryHistory\368<|||>1<|||>2026-02-23 10:58:07|test|16|DESC jiktab1
+Servers\mysession\QueryHistory\369<|||>1<|||>2026-02-23 10:58:25|test|0|SELECT * FROM jiktab1
+Servers\mysession\QueryHistory\370<|||>1<|||>2026-02-23 11:00:07|test|16|-- jikwon과 동일 테이블 생성 / pk는 제외<{{{><}}}>DESC jiktab1
+Servers\mysession\QueryHistory\371<|||>1<|||>2026-02-23 11:00:44|test|31|CREATE TABLE jiktab2 AS SELECT * FROM jikwon
+Servers\mysession\QueryHistory\372<|||>1<|||>2026-02-23 11:01:29|test|31|DROP TABLE jiktab2
+Servers\mysession\QueryHistory\373<|||>1<|||>2026-02-23 11:01:34|test|16|CREATE TABLE jiktab2 AS SELECT * FROM jikwon WHERE 1 = 0
+Servers\mysession\QueryHistory\375<|||>1<|||>2026-02-23 11:02:27|test|47|DESC jiktab2
+Servers\mysession\QueryHistory\376<|||>1<|||>2026-02-23 11:04:12|test|15|INSERT INTO jiktab2 SELECT * FROM jikwon WHERE jikwonjik = '과장'
+Servers\mysession\QueryHistory\374<|||>1<|||>2026-02-23 11:05:44|test|16|-- insert + subquery<{{{><}}}><{{{><}}}>INSERT INTO jiktab2 (jikwonno, jikwonname, busernum) SELECT jikwonno, jikwonname, busernum FROM jikwon WHERE jikwonjik = '대리'
+Servers\mysession\QueryHistory\378<|||>1<|||>2026-02-23 11:05:47|test|16|-- jikwon과 동일 구조 테이블 생성<{{{><}}}>SELECT * FROM jiktab2
+Servers\mysession\QueryHistory\379<|||>1<|||>2026-02-23 11:10:43|test|31|UPDATE jiktab1 SET jikwonjik = (SELECT jikwonjik FROM jikwon WHERE jikwonname = '이순신')<{{{><}}}><{{{><}}}><{{{><}}}>-- delete + subquery<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\380<|||>1<|||>2026-02-23 11:11:08|test|0|UPDATE jiktab1 SET jikwonjik = (SELECT jikwonjik FROM jikwon WHERE jikwonname = '이순신') WHERE jikwonno = 2
+Servers\mysession\QueryHistory\377<|||>1<|||>2026-02-23 11:12:24|test|16|-- delete + subquery<{{{><}}}>DELETE FROM jiktab1 WHERE jikwonno IN (SELECT DISTINCT gogekdamsano FROM gogek)
+Servers\mysession\QueryHistory\382<|||>1<|||>2026-02-23 11:12:27|test|0|-- update + subquery<{{{><}}}>SELECT * FROM jiktab1
+Servers\mysession\QueryHistory\383<|||>1<|||>2026-02-23 11:56:45|test|15|-- autocommit 설정<{{{><}}}>SET autocommit = FALSE
+Servers\mysession\QueryHistory\381<|||>1<|||>2026-02-23 11:56:49|test|0|-- autocommit 설정값 확인(현재는 기본으로 on 되어 있음)<{{{><}}}>SET autocommit = TRUE
+Servers\mysession\QueryHistory\386<|||>1<|||>2026-02-23 11:59:19|test|16|-- 연습용 테이블<{{{><}}}>DROP TABLE jiktab1
+Servers\mysession\QueryHistory\387<|||>1<|||>2026-02-23 12:00:05|test|31|CREATE TABLE jiktab1 AS SELECT * FROM jikwon
+Servers\mysession\QueryHistory\388<|||>1<|||>2026-02-23 12:01:23|test|0|-- autocommit 해제		off로 작업을 했어도 작업이 끝나면 on으로 복구해놓고 마쳐야 함<{{{><}}}><{{{><}}}><{{{><}}}>-- Transaction 연습<{{{><}}}>SELECT * FROM jiktab1
+Servers\mysession\QueryHistory\384<|||>1<|||>2026-02-23 12:02:06|test|0|SET autocommit = FALSE
+Servers\mysession\QueryHistory\389<|||>1<|||>2026-02-23 12:03:31|test|47|-- autocommit 해제		off로 작업을 했어도 작업이 끝나면 on으로 복구해놓고 마쳐야 함<{{{><}}}><{{{><}}}><{{{><}}}>-- Transaction 연습<{{{><}}}>CREATE TABLE jiktab3 AS SELECT * FROM jikwon
+Servers\mysession\QueryHistory\390<|||>1<|||>2026-02-23 12:03:40|test|0|SELECT * FROM jiktab3
+Servers\mysession\QueryHistory\391<|||>1<|||>2026-02-23 12:04:24|test|47|-- 연습용 테이블<{{{><}}}><{{{><}}}>-- 연습 1<{{{><}}}>DELETE FROM jiktab3 WHERE jikwonno = 2
+Servers\mysession\QueryHistory\392<|||>1<|||>2026-02-23 12:05:44|test|0|-- 현재 클라이언트에서만 삭제된 상태 / 서버에는 아무 영향 없음<{{{><}}}>SELECT * FROM jiktab3
+Servers\mysession\QueryHistory\393<|||>1<|||>2026-02-23 12:07:06|test|15|ROLLBACK
+Servers\mysession\QueryHistory\395<|||>1<|||>2026-02-23 12:08:35|test|0|DELETE FROM jiktab3 WHERE jikwonno = 2
+Servers\mysession\QueryHistory\396<|||>1<|||>2026-02-23 12:08:38|test|0|-- 트랜잭션 시작 : 현재 클라이언트에서만 삭제된 상태 / 서버에는 아무 영향 없음<{{{><}}}>SELECT * FROM jiktab3
+Servers\mysession\QueryHistory\394<|||>1<|||>2026-02-23 12:13:57|test|16|-- 트랜잭션 종료 : 다시 클라이언트 내용 복구<{{{><}}}>COMMIT
+Servers\mysession\QueryHistory\397<|||>1<|||>2026-02-23 12:15:11|test|0|-- 트랜잭션 종료 : DB 서버에 클라이언트의 내용을 근거로 원본 갱신<{{{><}}}>SET autocommit = TRUE
+Servers\mysession\QueryHistory\398<|||>1<|||>2026-02-23 12:30:45|test|0|-- 다시 자동으로 복구<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습 2 : save point(저장점)를 이용해 부분적인 트랜잭션 처리 가능<{{{><}}}>SET autocommit = FALSE
+Servers\mysession\QueryHistory\400<|||>1<|||>2026-02-23 12:31:45|test|0|UPDATE jiktab3 SET jikwonpay = 7777 WHERE jikwonno = 4
+Servers\mysession\QueryHistory\401<|||>1<|||>2026-02-23 12:31:52|test|0|SELECT * FROM jiktab3 WHERE jikwonno = 4
+Servers\mysession\QueryHistory\399<|||>1<|||>2026-02-23 12:32:37|test|0|SAVEPOINT a
+Servers\mysession\QueryHistory\402<|||>1<|||>2026-02-23 12:33:14|test|0|-- 저장점 설정<{{{><}}}>UPDATE jiktab3 SET jikwonpay = 8888 WHERE jikwonno = 5
+Servers\mysession\QueryHistory\403<|||>1<|||>2026-02-23 12:33:31|test|0|SELECT * FROM jiktab3 WHERE jikwonno = 5
+Servers\mysession\QueryHistory\404<|||>1<|||>2026-02-23 12:34:04|test|16|ROLLBACK TO SAVEPOINT a
+Servers\mysession\QueryHistory\405<|||>1<|||>2026-02-23 12:35:00|test|15|SELECT * FROM jikwon WHERE jikwonno <= 6
+Servers\mysession\QueryHistory\406<|||>1<|||>2026-02-23 12:36:46|test|16|-- 4번은 수정 5번은 ROLLBACK됨<{{{><}}}>ROLLBACK
+Servers\mysession\QueryHistory\407<|||>1<|||>2026-02-23 12:36:49|test|0|-- save point 까지 롤백<{{{><}}}>SELECT * FROM jikwon WHERE jikwonno <= 6
+Servers\mysession\QueryHistory\408<|||>1<|||>2026-02-23 12:39:19|test|0|UPDATE jiktab3 SET jikwonpay = 9999 WHERE jikwonno = 5;<{{{><}}}>COMMIT;
+Servers\mysession\QueryHistory\409<|||>1<|||>2026-02-23 12:40:03|test|0|-- 트랜잭션 종료<{{{><}}}>SET autocommit = TRUE
+Servers\mysession\QueryHistory\410<|||>1<|||>2026-02-23 12:40:10|test|0|--                                                                                                                <{{{><}}}><{{{><}}}>-- transaction : DB의 상태를 변경시키는 논리적인 작업 단위<{{{><}}}>-- 4가지 특징 : ACID <{{{><}}}>-- insert, update, delete 시 트랜잭션 시작됨(데이터의 변화)<{{{><}}}>-- COMMIT, ROLLBACK 으로 트랜잭션 종료<{{{><}}}>-- 서버종료, 타임아웃 등이 발생해도 트랜잭션 종료<{{{><}}}><{{{><}}}>SHOW VARIABLES LIKE 'autocommit%'
+Servers\mysession\QueryHistory\385<|||>1<|||>2026-02-23 12:44:30|test|0|-- 다시 자동으로 복구<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 교착 상태(DeadLock) : 두 개 이상의 트랜잭션이 서로 상대방이 가진 LOCK을 기다리면서 영원히 진행하지 못하는 상태<{{{><}}}>-- 해결책은 트랜잭션을 수행완료 또는 취소하면 된다<{{{><}}}>-- 일관성 유지가 중요함<{{{><}}}><{{{><}}}>SET autocommit = FALSE
+Servers\mysession\QueryHistory\412<|||>1<|||>2026-02-23 12:45:43|test|0|UPDATE jiktab3 SET jikwonpay = 1234 WHERE jikwonno = 7
+Servers\mysession\QueryHistory\413<|||>1<|||>2026-02-23 12:45:46|test|0|SELECT * FROM jiktab3 WHERE jikwonno = 7
+Servers\mysession\QueryHistory\411<|||>1<|||>2026-02-23 12:48:59|test|0|-- 트랜잭션 시작<{{{><}}}>-- DELETE FROM jiktab3 WHERE jikwonno = 7;  --> 이 내용을 프롬포트에 치면 아무 진행이 되지 않음 timeout 에러 ( 트랜잭션이 종료 되지 않았기 때문에 )<{{{><}}}>COMMIT
+Servers\mysession\QueryHistory\414<|||>1<|||>2026-02-23 12:50:28|test|0|-- 트랜잭션 종료와 동시에 데드락 해결되고 작업이 진행됨<{{{><}}}>SET autocommit = TRUE
+Servers\mysession\QueryHistory\415<|||>1<|||>2026-02-23 13:05:25|test|0|-- 다시 자동으로 복구<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- ------------------------------------------------------------------------------------------------------------------------------------------------<{{{><}}}><{{{><}}}>-- view 파일<{{{><}}}>-- 물리적인 테이블을 근거로 select 문(조건포함)을 파일로 저장하여, 가상의 테이블로 사용한다<{{{><}}}>-- 물리적인 테이블이 아니므로 메모리 소모가 거의 없다<{{{><}}}>-- 복잡하고 긴 쿼리문을 단순화 가능, 보안 강화, 자료의 독립성 확보<{{{><}}}>-- 형식 : create [or replace] view 뷰파일명 as select 문<{{{><}}}>-- 		 alter view 뷰파일명~<{{{><}}}>-- 		 drop view 뷰파일명~<{{{><}}}><{{{><}}}>SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonibsail < '2010-12-31'
+Servers\mysession\QueryHistory\416<|||>1<|||>2026-02-23 13:08:40|test|15|-- 클라이언트 상으로 데이터 읽어옴<{{{><}}}><{{{><}}}>CREATE OR REPLACE VIEW v_a AS SELECT jikwonno, jikwonname, jikwonpay FROM jikwon WHERE jikwonibsail < '2010-12-31'
+Servers\mysession\QueryHistory\417<|||>1<|||>2026-02-23 13:09:45|test|0|-- 뷰파일 생성<{{{><}}}><{{{><}}}>SHOW TABLES
+Servers\mysession\QueryHistory\418<|||>1<|||>2026-02-23 13:09:59|test|0|SELECT * FROM v_a
+Servers\mysession\QueryHistory\419<|||>1<|||>2026-02-23 13:10:07|test|0|DESC v_a
+Servers\mysession\QueryHistory\420<|||>1<|||>2026-02-23 13:13:05|test|0|SHOW FULL TABLES IN test WHERE table_type LIKE 'VIEW'
+Servers\mysession\QueryHistory\421<|||>1<|||>2026-02-23 13:14:10|test|0|-- 뷰파일 목룍 확인<{{{><}}}>SELECT SUM(jikwonpay) AS 연봉합 FROM v_a
+Servers\mysession\QueryHistory\422<|||>1<|||>2026-02-23 13:15:48|test|16|-- 테이블에서 하는 모든 것 가능<{{{><}}}><{{{><}}}>CREATE VIEW v_b AS SELECT * FROM jikwon WHERE jikwonname LIKE '김%' OR jikwonname LIKE '이%' OR jikwonname LIKE '박%'
+Servers\mysession\QueryHistory\423<|||>1<|||>2026-02-23 13:16:02|test|16|SELECT * FROM v_b
+Servers\mysession\QueryHistory\425<|||>1<|||>2026-02-23 13:17:12|test|0|SELECT jikwonno, jikwonname, jikwonpay FROM v_b WHERE jikwonjik = '사원'
+Servers\mysession\QueryHistory\426<|||>1<|||>2026-02-23 14:32:41|test|16|ALTER TABLE jikwon RENAME kbs
+Servers\mysession\QueryHistory\427<|||>1<|||>2026-02-23 14:33:34|test|15|-- ALTER TABLE jikwon RENAME kbs;  --> 원본 테이블(물리적인)이 없어졌으므로 뷰 참조 불가<{{{><}}}>ALTER TABLE kbs RENAME jikwon
+Servers\mysession\QueryHistory\428<|||>1<|||>2026-02-23 14:33:38|test|0|SELECT * FROM v_b ORDER BY jikwonname
+Servers\mysession\QueryHistory\424<|||>1<|||>2026-02-23 14:34:40|test|63|-- ALTER TABLE jikwon RENAME kbs;  --> 원본 테이블(물리적인)이 없어졌으므로 뷰 참조 불가<{{{><}}}><{{{><}}}>CREATE VIEW v_c AS SELECT * FROM jikwon ORDER BY jikwonpay DESC
+Servers\mysession\QueryHistory\429<|||>1<|||>2026-02-23 14:34:55|test|0|SELECT * FROM v_c
+Servers\mysession\QueryHistory\430<|||>1<|||>2026-02-23 14:36:18|test|15|-- 항상 내림차순으로 출력됨<{{{><}}}><{{{><}}}>CREATE VIEW v_d AS SELECT jikwonno, jikwonname, jikwonpay * 10000 AS ypay FROM jikwon
+Servers\mysession\QueryHistory\432<|||>1<|||>2026-02-23 14:38:12|test|0|CREATE VIEW v_e AS SELECT jikwonname, ypay FROM v_d WHERE ypay >= 50000000
+Servers\mysession\QueryHistory\433<|||>1<|||>2026-02-23 14:38:25|test|0|SELECT * from v_e
+Servers\mysession\QueryHistory\434<|||>1<|||>2026-02-23 14:39:52|test|16|UPDATE v_e SET jikwonname = '김치국' WHERE jikwonname = '김부만'
+Servers\mysession\QueryHistory\335<|||>1<|||>2026-02-23 14:43:17|test|0|-- 뷰 파일을 수정하면 원본 테이블도 수정됨 --> 상위 뷰파일, 원본 테이블 모두 수정<{{{><}}}><{{{><}}}>DELETE FROM v_d WHERE jikwonname = '최미숙'
+Servers\mysession\QueryHistory\438<|||>1<|||>2026-02-23 14:45:21|test|0|DELETE FROM v_d WHERE jikwonpay = 4100000;<{{{><}}}>SELECT * FROM v_d;
+Servers\mysession\QueryHistory\439<|||>1<|||>2026-02-23 14:45:38|test|0|DELETE FROM v_d WHERE jikwonpay = 41000000;<{{{><}}}>SELECT * FROM v_d;
+Servers\mysession\QueryHistory\435<|||>1<|||>2026-02-23 14:45:57|test|47|DELETE FROM v_d WHERE ypay = 41000000;<{{{><}}}>SELECT * FROM v_d;<{{{><}}}>
+Servers\mysession\QueryHistory\436<|||>1<|||>2026-02-23 14:46:45|test|0|SELECT * FROM v_d
+Servers\mysession\QueryHistory\437<|||>1<|||>2026-02-23 14:50:42|test|15|-- err :  원본테이블에 ypay가 없으므로 수정 불가 / 계산으로 만들어진 칼럼은 수정할 수 없다<{{{><}}}><{{{><}}}>CREATE OR REPLACE view v_e AS SELECT jikwonno, jikwonname, busernum, jikwonpay FROM jikwon
+Servers\mysession\QueryHistory\441<|||>1<|||>2026-02-23 14:50:56|test|0|SELECT * FROM v_e
+Servers\mysession\QueryHistory\431<|||>1<|||>2026-02-23 14:51:58|test|16|INSERT INTO v_e VALUES(31, '김밥', 20, 5000)
+Servers\mysession\QueryHistory\442<|||>1<|||>2026-02-23 14:52:04|test|0|-- 덮어씀<{{{><}}}>SELECT * FROM v_e
+Servers\mysession\QueryHistory\443<|||>1<|||>2026-02-23 14:52:31|test|0|SELECT * FROM jikwon
+Servers\mysession\QueryHistory\440<|||>1<|||>2026-02-23 14:53:23|test|15|DESC jikwon
+Servers\mysession\QueryHistory\72<|||>1<|||>2026-02-23 14:57:03|test|16|-- view의 insert는 원본의 not null 칼럼은 반드시 참여해야 한다<{{{><}}}><{{{><}}}>CREATE OR REPLACE VIEW v_f AS SELECT jikwonno, jikwonname, busernum, jikwonpay, jikwonibsail FROM jikwon WHERE jikwonibsail < '2015-1-1'
+Servers\mysession\QueryHistory\445<|||>1<|||>2026-02-23 14:59:02|test|0|INSERT INTO v_f VALUES(32, '공기밥', 10, 6000, '2014-5-6')
+Servers\mysession\QueryHistory\444<|||>1<|||>2026-02-23 15:00:39|test|0|INSERT INTO v_f VALUES(33, '주먹밥', 10, 7000, '2025-5-7')
+Servers\mysession\QueryHistory\447<|||>1<|||>2026-02-23 15:00:53|test|0|SELECT * FROM v_f
+Servers\mysession\QueryHistory\446<|||>1<|||>2026-02-23 15:01:39|test|0|-- 33번 데이터가 없다 / 데이터 추가는 잘 된거지만, 조건이 맞지 않기 때문에 보이지 않는 것<{{{><}}}>SELECT * FROM jikwon
+Servers\mysession\QueryHistory\448<|||>1<|||>2026-02-23 15:03:58|test|15|-- jikwon table에는 들어가 있음을 확인할 수 있다<{{{><}}}><{{{><}}}>CREATE VIEW v_group AS SELECT jikwonjik,SUM(jikwonpay) AS hap, AVG(jikwonpay) AS ave FROM jikwon GROUP BY jikwonjik
+Servers\mysession\QueryHistory\449<|||>1<|||>2026-02-23 15:04:16|test|16|SELECT * FROM v_group
+Servers\mysession\QueryHistory\450<|||>1<|||>2026-02-23 15:07:38|test|15|-- GROUP BY에 의한 view는 참조만 가능하다( insert, update, delete 불가)<{{{><}}}><{{{><}}}>CREATE or REPLACE VIEW v_join AS SELECT jikwonno, jikwonname, busernum, jikwonjik FROM jikwon INNER JOIN buser ON jikwon.busernum = buser.buserno WHERE jikwon.busernum IN (10, 20)
+Servers\mysession\QueryHistory\452<|||>1<|||>2026-02-23 15:09:14|test|15|-- join에 의한 view도 가능하다<{{{><}}}>UPDATE v_join SET jikwonname = '손오공' WHERE jikwonname = '박명화'
+Servers\mysession\QueryHistory\453<|||>1<|||>2026-02-23 15:09:16|test|0|SELECT * FROM v_join
+Servers\mysession\QueryHistory\451<|||>1<|||>2026-02-23 15:11:27|test|0|UPDATE v_join SET jikwonname = '사오정', busername = '영업부'  WHERE jikwonname = '손오공';<{{{><}}}>SELECT * FROM v_join;
+Servers\mysession\QueryHistory\454<|||>1<|||>2026-02-23 15:42:58|test|16|-- err : join에 의한 view는 데이터 삭제 불가능 / Oracle은 가능..<{{{><}}}><{{{><}}}><{{{><}}}>-- 연습문제<{{{><}}}>-- 문1) 사번   이름    부서  직급  근무년수  고객확보<{{{><}}}>--       1   홍길동  영업부 사원     6           O   or  X<{{{><}}}>-- 조건 : 직급이 없으면 임시직, 전산부 자료는 제외<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam1을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam1 AS SELECT distinct jikwonno AS 사번, jikwonname AS 이름, busername AS 부서, nvl(jikwonjik, '임시직') AS 직급, DATE_FORMAT(NOW(), '%Y') - DATE_FORMAT(jikwonibsail, '%Y') AS 근무년수, case nvl(gogekname, 'a') when 'a' then 'X' ELSE 'O' END AS 고객확보 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE busername <> '전산부' OR busername IS NULL
+Servers\mysession\QueryHistory\455<|||>1<|||>2026-02-23 15:43:15|test|0|SELECT * FROM v_exam1
+Servers\mysession\QueryHistory\456<|||>1<|||>2026-02-23 16:14:50|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT jikwonno, jikwonname, busername, jikwonjik FROM jikwon INNER JOIN buser ON busernum = buserno WHERE jikwonjik = '과장'
+Servers\mysession\QueryHistory\457<|||>1<|||>2026-02-23 16:15:15|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT jikwonno, jikwonname, busername, jikwonjik FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE jikwonjik = '과장'
+Servers\mysession\QueryHistory\458<|||>1<|||>2026-02-23 16:20:33|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonpay AS 연봉 FROM jikwon WHERE jikwonpay >= 5000 AND jikwonpay <= 7000
+Servers\mysession\QueryHistory\459<|||>1<|||>2026-02-23 16:20:55|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonpay AS 연봉 FROM jikwon WHERE jikwonpay >= 5000 AND jikwonpay <= 7000 ORDER BY jikwonpay
+Servers\mysession\QueryHistory\460<|||>1<|||>2026-02-23 16:23:19|test|0|SELECT jikwonno AS 직원번호, jikwonname AS 직원명, jikwonpay AS 연봉 FROM jikwon where jikwonpay BETWEEN 5000 AND 7000 ORDER BY jikwonpay
+Servers\mysession\QueryHistory\461<|||>1<|||>2026-02-23 16:24:55|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM jikwon WHERE jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon)
+Servers\mysession\QueryHistory\462<|||>1<|||>2026-02-23 16:36:47|test|47|CREATE TABLE customers(cno INT PRIMARY KEY, cname CHAR(10), caddress VARCHAR(50), cemail CHAR(20), cphone VARCHAR(20));<{{{><}}}>CREATE TABLE orders(ono INT PRIMARY KEY, odate DATETIME, oaddress VARCHAR(50), ophone VARCHAR(20), ostatus VARCHAR(10), ono_cus INT, FOREIGN KEY(ono_cus) REFERENCES customers(cno));
+Servers\mysession\QueryHistory\463<|||>1<|||>2026-02-23 16:39:31|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT YEAR(jikwonibsail) FROM jikwon
+Servers\mysession\QueryHistory\464<|||>1<|||>2026-02-23 16:40:23|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') FROM jikwon
+Servers\mysession\QueryHistory\465<|||>1<|||>2026-02-23 16:41:22|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도  FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020
+Servers\mysession\QueryHistory\466<|||>1<|||>2026-02-23 16:41:38|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도  FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2021
+Servers\mysession\QueryHistory\467<|||>1<|||>2026-02-23 16:43:30|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, COUNT(*) AS 인원수, AVG(jikwonpay) FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020 GROUP BY DATE_FORMAT(jikwonibsail, '%Y')
+Servers\mysession\QueryHistory\468<|||>1<|||>2026-02-23 16:44:20|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, AVG(jikwonpay) AS 연봉평균 FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020 GROUP BY DATE_FORMAT(jikwonibsail, '%Y')
+Servers\mysession\QueryHistory\469<|||>1<|||>2026-02-23 16:44:51|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, COUNT(*) AS 인원수, AVG(jikwonpay) AS 연봉평균 FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020
+Servers\mysession\QueryHistory\470<|||>1<|||>2026-02-23 16:45:28|test|0|SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, AVG(jikwonpay) AS 연봉평균 FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020
+Servers\mysession\QueryHistory\472<|||>1<|||>2026-02-23 16:46:30|test|0|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도, COUNT(*) AS 인원수, AVG(jikwonpay) AS 연봉평균 FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020 GROUP BY DATE_FORMAT(jikwonibsail, '%Y')
+Servers\mysession\QueryHistory\473<|||>1<|||>2026-02-23 16:46:36|test|0|SELECT DATE_FORMAT(jikwonibsail, '%Y') AS 입사연도 FROM jikwon WHERE YEAR(jikwonibsail) BETWEEN 2015 AND 2020
+Servers\mysession\QueryHistory\471<|||>1<|||>2026-02-23 16:50:12|test|0|SELECT jikwonname AS 직원명, jikwonpay AS 급여, COUNT(gogekno) AS 고객수 FROM jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon) GROUP BY jikwonname
+Servers\mysession\QueryHistory\474<|||>1<|||>2026-02-23 16:51:02|test|0|SELECT jikwonname AS 직원명, jikwonpay AS 급여, COUNT(gogekno) AS 고객수 FROM jikwon LEFT OUTER JOIN gogek ON jikwonno = gogekdamsano WHERE jikwonpay > (SELECT AVG(jikwonpay) FROM jikwon) GROUP BY jikwonname ORDER BY jikwonpay DESC
+Servers\mysession\QueryHistory\475<|||>1<|||>2026-02-23 17:07:11|test|0|-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\mysession\QueryHistory\476<|||>1<|||>2026-02-23 17:07:35|test|15|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명 FROM jikwon INNER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\478<|||>1<|||>2026-02-23 17:08:08|test|15|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\477<|||>1<|||>2026-02-23 17:08:34|test|16|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명 FROM jikwon INNER JOIN buser ON busernum = buserno;<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\480<|||>1<|||>2026-02-23 17:09:15|test|0|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) FROM jikwon INNER JOIN buser ON busernum = buserno;<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\481<|||>1<|||>2026-02-23 17:09:33|test|16|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername;<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\482<|||>1<|||>2026-02-23 17:10:53|test|47|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername;<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\483<|||>1<|||>2026-02-23 17:11:34|test|0|SELECT MAX(인원수) FROM v_exam2
+Servers\mysession\QueryHistory\484<|||>1<|||>2026-02-23 17:12:23|test|0|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername WHERE MAX(인원수);<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\486<|||>1<|||>2026-02-23 17:15:07|test|16|CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername;<{{{><}}}>SELECT * FROM v_exam2 WHERE 인원수 = (SELECT MAX(인원수) FROM v_exam2);<{{{><}}}>
+Servers\mysession\QueryHistory\479<|||>1<|||>2026-02-23 17:20:18|test|47|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername HAVING 인원수 = MAX(인원수)
+Servers\mysession\QueryHistory\488<|||>1<|||>2026-02-23 17:21:01|test|15|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername HAVING 인원수 > 5
+Servers\mysession\QueryHistory\487<|||>1<|||>2026-02-23 17:21:51|test|15|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername HAVING 인원수 = 6
+Servers\mysession\QueryHistory\489<|||>1<|||>2026-02-23 17:36:57|test|16|-- 문2) 부서명   인원수<{{{><}}}>--      영업부     7<{{{><}}}>-- 조건 : 직원수가 가장 많은 부서 출력<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam2을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam2 AS SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM jikwon INNER JOIN buser ON busernum = buserno GROUP BY busername ORDER BY 인원수 desc
+Servers\mysession\QueryHistory\491<|||>1<|||>2026-02-23 17:37:00|test|0|SELECT * FROM v_exam2
+Servers\mysession\QueryHistory\490<|||>1<|||>2026-02-23 17:37:15|test|0|SELECT * FROM v_exam2 WHERE 인원수 = (SELECT MAX(인원수) FROM v_exam2)
+Servers\mysession\QueryHistory\485<|||>1<|||>2026-02-23 17:46:00|test|0|SELECT DAyNAME(CURDATE()) FROM DUAL
+Servers\mysession\QueryHistory\493<|||>1<|||>2026-02-23 17:49:47|test|16|CREATE OR REPLACE VIEW v_test AS SELECT DAYNAME(jikwonibsail), busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno;<{{{><}}}>SELECT * FROM v_test;
+Servers\mysession\QueryHistory\494<|||>1<|||>2026-02-23 17:50:46|test|16|CREATE OR REPLACE VIEW v_test AS SELECT DAYNAME(jikwonibsail) AS 요일, COUNT(jikwonno), busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno GROUP BY 요일;<{{{><}}}>SELECT * FROM v_test;
+Servers\mysession\QueryHistory\495<|||>1<|||>2026-02-23 17:51:40|test|0|CREATE OR REPLACE VIEW v_test AS SELECT DAYNAME(jikwonibsail) AS 요일, COUNT(jikwonno), busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno GROUP BY 요일 WHERE 요일 IS NOT null;<{{{><}}}>SELECT * FROM v_test;<{{{><}}}>
+Servers\mysession\QueryHistory\496<|||>1<|||>2026-02-23 17:52:00|test|15|CREATE OR REPLACE VIEW v_test AS SELECT DAYNAME(jikwonibsail) AS 요일, COUNT(jikwonno), busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno GROUP BY 요일 having 요일 IS NOT null;<{{{><}}}>SELECT * FROM v_test;<{{{><}}}>
+Servers\mysession\QueryHistory\497<|||>1<|||>2026-02-23 17:58:18|test|15|CREATE OR REPLACE VIEW v_test AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, COUNT(jikwonno) AS 직원수, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno GROUP BY 요일 having 요일 IS NOT null;<{{{><}}}>SELECT * FROM v_test;
+Servers\mysession\QueryHistory\498<|||>1<|||>2026-02-23 17:59:57|test|0|SELECT * FROM v_test WHERE 요일 = (SELECT MAX(직원수) FROM v_test)
+Servers\mysession\QueryHistory\502<|||>1<|||>2026-02-23 18:15:51|test|16|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail), busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno;<{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\503<|||>1<|||>2026-02-23 18:18:28|test|0|SELECT COUNT(요일) FROM v_exam3
+Servers\mysession\QueryHistory\504<|||>1<|||>2026-02-24 09:23:12|test|16|CREATE OR REPLACE VIEW v_test AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, COUNT(*) AS 직원수, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno GROUP BY 요일 having 요일 IS NOT null
+Servers\mysession\QueryHistory\500<|||>1<|||>2026-02-24 09:23:16|test|0|SELECT * FROM v_test
+Servers\mysession\QueryHistory\501<|||>1<|||>2026-02-24 09:23:26|test|0|SELECT * FROM v_test WHERE 직원수 = (SELECT MAX(직원수) FROM v_test)
+Servers\mysession\QueryHistory\499<|||>1<|||>2026-02-24 09:29:13|test|16|-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\492<|||>1<|||>2026-02-24 09:30:22|test|16|-- 문3) 가장 많은 직원이 입사한 요일에 입사한 직원 출력<{{{><}}}>--    직원명   요일     부서명   부서전화<{{{><}}}>--    한국인  수요일   전산부   222-2222<{{{><}}}>-- 위의 결과를 위한 뷰파일 v_exam3을 작성<{{{><}}}>CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일
+Servers\mysession\QueryHistory\505<|||>1<|||>2026-02-24 09:31:01|test|0|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일 HAVING IS NOT null;<{{{><}}}>SELECT * FROM v_exam3;<{{{><}}}>
+Servers\mysession\QueryHistory\507<|||>1<|||>2026-02-24 09:31:16|test|0|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일 HAVING 요일 IS NOT null;<{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\508<|||>1<|||>2026-02-24 09:31:56|test|0|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일 IS NOT null, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일;<{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\509<|||>1<|||>2026-02-24 09:32:19|test|31|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) IS NOT null AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일;<{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\510<|||>1<|||>2026-02-24 09:32:51|test|15|CREATE OR REPLACE VIEW v_exam3 AS SELECT jikwonname AS 직원명, DAYNAME(jikwonibsail) AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno ORDER BY 요일;<{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\511<|||>1<|||>2026-02-24 09:35:22|test|0|-- 강사님 풀이<{{{><}}}>SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM buser INNER JOIN jikwon ON buser.buserno = jikwon.busernum GROUP BY busername
+Servers\mysession\QueryHistory\512<|||>1<|||>2026-02-24 09:37:13|test|0|-- 강사님 풀이<{{{><}}}>SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM buser INNER JOIN jikwon ON buser.buserno = jikwon.busernum GROUP BY busername HAVING 인원수 = (SELECT COUNT(*) FROM jikwon GROUP BY busernum ORDER BY COUNT(*) DESC LIMIT 1)
+Servers\mysession\QueryHistory\513<|||>1<|||>2026-02-24 09:39:00|test|16|CREATE OR REPLACE VIEW v_exam2 AS <{{{><}}}>SELECT busername AS 부서명, COUNT(*) AS 인원수 FROM buser INNER JOIN jikwon ON buser.buserno = jikwon.busernum GROUP BY busername HAVING 인원수 = (SELECT COUNT(*) FROM jikwon GROUP BY busernum ORDER BY COUNT(*) DESC LIMIT 1);<{{{><}}}>SELECT * FROM v_exam2;
+Servers\mysession\QueryHistory\514<|||>1<|||>2026-02-24 09:44:20|test|0|-- 강사님 풀이<{{{><}}}><{{{><}}}>SELECT jikwonname AS 직원명, DATE_FORMAT(jikwonibsail, '%W') AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno
+Servers\mysession\QueryHistory\515<|||>1<|||>2026-02-24 09:47:43|test|0|CREATE OR REPLACE VIEW v_exam3 AS <{{{><}}}>SELECT jikwonname AS 직원명, DATE_FORMAT(jikwonibsail, '%W') AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE 요일 = (SELECT DATE_FORMAT(jikwonibsail, '%W') FROM jikwon GROUP BY DATE_FORMAT(jikwonibsail, '%W') HAVING COUNT(*) = (SELECT COUNT(*) FROM jikwon GROUP BY DATE_FORMAT(jikwonibsail, '%W') ORDER BY COUNT(*) DESC LIMIT 1));<{{{><}}}><{{{><}}}>SELECT * FROM v_exam3;
+Servers\mysession\QueryHistory\516<|||>1<|||>2026-02-24 09:48:24|test|0|SELECT * FROM v_exam3
+Servers\mysession\QueryHistory\506<|||>1<|||>2026-02-24 09:50:00|test|32|CREATE OR REPLACE VIEW v_exam3 AS <{{{><}}}>SELECT jikwonname AS 직원명, DATE_FORMAT(jikwonibsail, '%W') AS 요일, busername AS 부서명, busertel AS 부서전화 FROM jikwon LEFT OUTER JOIN buser ON busernum = buserno WHERE DATE_FORMAT(jikwonibsail, '%W') = (SELECT DATE_FORMAT(jikwonibsail, '%W') FROM jikwon GROUP BY DATE_FORMAT(jikwonibsail, '%W') HAVING COUNT(*) = (SELECT COUNT(*) FROM jikwon GROUP BY DATE_FORMAT(jikwonibsail, '%W') ORDER BY COUNT(*) DESC LIMIT 1));<{{{><}}}><{{{><}}}>SELECT * FROM v_exam3;<{{{><}}}>

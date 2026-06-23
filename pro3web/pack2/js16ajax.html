@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajax</title>
+
+<script>
+    window.onload = () => {
+        document.querySelector('#btnGet').onclick = getFunc;        // 클릭 시 실행결과가 아니라 실행할 수 있도록 함수의 주소를 할당(괄호가 없는 이유)
+        document.querySelector('#btnPost').onclick = postFunc;
+    }
+
+    let xhr;
+
+    function getFunc(){
+        let irum = frm.name.value;
+        let nai = frm.age.value;
+        // alert(irum + ' ' + nai);
+
+        xhr = new XMLHttpRequest();   // 서버와 Ajax 통신용 클래스
+        let fname = 'js16.py?irum' + irum + '&nai=' + nai;
+        // 임시방편용 js16.py를 작성(얘는 처리 후 json을 반환한다고 가정)
+        xhr.open('GET', fname, true);       // true : 비동기 방식, false : 동기 방식
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState === 4 && xhr.status === 200){         // 통신상태 확인
+                process1();
+            }
+        }
+         xhr.send();         // 요청이 넘어감
+    }
+    
+
+    function process1(){
+        alert(xhr.responseText);
+
+    }
+
+    function postFunc(){
+        let irum = frm.name.value;
+        let nai = frm.age.value;
+        // alert(irum + ' ' + nai);
+
+        xhr = new XMLHttpRequest();   // 서버와 Ajax 통신용 클래스
+        let fname = 'js16.py';
+        // 임시방편용 js16.py를 작성(얘는 처리 후 json을 반환한다고 가정)
+        xhr.open('POST', fname, true);       // true : 비동기 방식, false : 동기 방식
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState === 4 && xhr.status === 200){         // 통신상태 확인
+                process1();
+            }
+        }
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=UTF-8")
+        xhr.send('irum=' + irum + '&nai=' + nai);         // body 영역에 포함되어 전송(대용량)
+    }
+    
+</script>
+</head>
+<body>
+<h4>** Ajax 이해 : get, post **</h4>
+<form name="frm">
+    이름 : <input type="text" name="name" value="tom"><br>
+    나이 : <input type="text" name="age" value="33"><br>
+    <input type="button" value="get 방식" id="btnGet">
+    <input type="button" value="post 방식" id="btnpost">
+</form>
+</body>
+</html>

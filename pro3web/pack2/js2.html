@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>JAVASCRIPT</title>
+</head>
+<body>
+<h3>** 변수와 연산자 **</h3>
+
+<script type = 'text/javascript'>
+// var aa;     // 전통적인 변수 선언 방식--지금은 잘 사용하지 않음
+let aa;     // modern한 변수 선언     
+/* 
+이건 
+여러 줄 주석 
+*/
+aa = 100;
+
+let bb = 20.5;
+const cc = 300;     // 상수로 선언한 것 - 변수가 아님
+
+bb = bb + 10;
+/// cc = cc + 10;   error : 상수 이기 때문에
+
+let dd = false;     // bool 연산 값
+
+let msg = '변수 선언 이해'
+
+document.write(aa, ' ' ,bb ,' ', cc, ' ', dd, ' ', msg);
+document.write('<hr>')
+document.write('type 확인 : ', typeof(1), ' ', typeof(-1.5), ' ', typeof('안녕'), ' ', typeof(true), ' ', typeof(null), ' ', typeof(undefined))
+
+document.write('<hr>**변수 범위 확인**')
+{       // 영역 확보
+    let v1 = 1;
+    document.write('<br>', v1);
+    {
+        let v2 = 2;
+        document.write('<br>', v2);
+        {
+            let v3 = 3;                         // 영역 내 변수 선언 -- > 지역 변수
+            document.write('<br>', v3);
+            document.write('<br>', v1, ' ', v2, ' ', v3)
+        }
+    }
+}
+// document.write('<br>', v1, ' ', v2, ' ', v3)     : error : 영역 밖에 있으므로 
+</script>
+<br><hr> -- 연산자(우선순위는 파이썬과 동일) --
+<script>
+let x = 5, y = 2;
+document.write('<br>', x, ' ', y);
+document.write('<br>', x+y, ' ', x/y, ' ', x%y);
+document.write('<br> 관계(비교) 연산 : ', x>y, ' ', x<=y, ' ', x==y, ' ', x!=y);
+document.write('<br> 논리 연산(&& - and, || - or) : ', x>y && x<=y, ' ', x>y || x<=y);
+document.write('<br> 누적 연산 : ', x = x+1, ' ', ++x, ' ', x += 1);     // 셋은 같음 -- 1누적 
+document.write('<br> 삼항 연산 : ', (x > y)?1000:1000 + 2000);
+
+document.write('<br>', 'a' + 'b' + 'c');        // 문자열 더하기
+
+let m, b, c;
+m = b = c = 6 + 5;      // 할당 연산 Chaining
+document.write('<br>', m, ' ', b, ' ', c)
+
+document.write('<hr>')
+</script>
+</body>
+</html>
